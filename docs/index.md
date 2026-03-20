@@ -1,17 +1,18 @@
 # Systems Card Game
 
-
 This site presents a card game method for mapping operational systems
-(communities, livelihoods, occupations, etc.) in the context of external pressure.
+(communities, livelihoods, occupations, etc.) in the context of external
+pressure.
 
 ## Start here
 
-- [How to use the game](../how-to-use/manual.md)
-- [Master template (empty cards)](../how-to-use/master-template/)
+- [How to use the game](https://github.com/hmatthes/systems-card-game/blob/main/how-to-use/manual.md)
+- [Master template (empty cards)](https://github.com/hmatthes/systems-card-game/tree/main/how-to-use/master-template/)
 
 ## Application examples
 
-- [Reindeer herding as a livelihood in northern Fennoscandia](https://github.com/hmatthes/systems-card-game/tree/main/application-examples/reindeer-herding)
+- [Reindeer herding (web page with photo)](reindeer-herding.md)
+- [Reindeer herding folder on GitHub](https://github.com/hmatthes/systems-card-game/tree/main/application-examples/reindeer-herding)
 
 ## Repository structure
 
