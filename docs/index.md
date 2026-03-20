@@ -11,7 +11,7 @@ This site presents a card game method for mapping operational systems
 
 ## Application examples
 
-- [Reindeer herding as a livelihood in northern Fennoscandia](../application-examples/reindeer-herding/description.md)
+- [Reindeer herding as a livelihood in northern Fennoscandia](https://github.com/hmatthes/systems-card-game/tree/main/application-examples/reindeer-herding)
 
 ## Repository structure
 
