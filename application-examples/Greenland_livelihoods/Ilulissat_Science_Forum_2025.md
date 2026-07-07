@@ -13,17 +13,24 @@ The game facilitates a participatory mapping process, bringing together the loca
 By exploring how these mapped systems respond to climate-driven changes, the workshop aimed to foster a better understanding of community strengths and adaptive pathways for Ilulissat’s future.
 
 ## 3. Deck description
-- Name of deck:
+- [I DON'T THINK WE NEED THIS] Name of deck:
+- [I think we need this]  Language(s): English and Greenlandic. Greenlandic translation by Kasper Kristensen and Nukaaka Lund-Mathæussen.
 - Link to templates in this repo:
-- Types of cards used (e.g. actors, resources, stressors, practices):
+- Types of cards used (e.g. actors, resources, stressors, practices): The system cards were divided into 4 categories:
+  1) Livelihoods, community
+  2) Climate, environment
+  3) Infrastructure
+  4) Society, economy, governance
+- In this workshop, only the climate related disruption cards were used.
+- The English and Greenlandic cards are in separate files. For dual-language usage, we taped the corresponding cards together.
 
 ## 4. Workshop process
 - Number of sessions: 1
-- Main steps: 
-1
+- Main steps: 1
 - Any adaptations to the generic method:
-The cultural adaptation was provided by Kristiina Verro, Marie Stougaard and Nukaaka Lund-Mathæussen. Greenlandic translation by Kasper Kristensen and Nukaaka Lund-Mathæussen. 
+The cultural adaptation was provided by Kristiina Verro, Marie Stougaard and Nukaaka Lund-Mathæussen.
 Dual-language cards were used to facilitate seamless communication and knowledge sharing between local residents and researchers in a multi-language environment.
+
 
 ## 5. Outcomes
 - Main insights: 
