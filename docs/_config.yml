@@ -1,0 +1,12 @@
+remote_theme: just-the-docs/just-the-docs
+
+title: Systems card game
+description: Systems card game
+
+nav_enabled: true
+search_enabled: true
+
+aux_links:
+  GitHub: https://github.com/kristiinaverro/systems-card-game
+
+color_scheme: light
