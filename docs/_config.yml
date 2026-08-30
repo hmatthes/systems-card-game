@@ -1,12 +1,17 @@
 remote_theme: just-the-docs/just-the-docs
 
-title: Systems card game
-description: Systems card game
+title: Systems Card Game
+description: A participatory tool for mapping systems and exploring change
+
+url: https://hmatthes.github.io
+baseurl: /systems-card-game
 
 nav_enabled: true
 search_enabled: true
 
 aux_links:
-  GitHub: https://github.com/kristiinaverro/systems-card-game
+  "View on GitHub":
+    - "https://github.com/hmatthes/systems-card-game"
 
+aux_links_new_tab: true
 color_scheme: light
