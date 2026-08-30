@@ -1,3 +1,7 @@
+---
+title: Ilulissat Science Forum 2025
+nav_exclude: true
+---
 # Application example: Climate-resilient, future-focused workshop for Greenlandic communities.
 
 ## 1. Context

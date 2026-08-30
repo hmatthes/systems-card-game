@@ -1,3 +1,7 @@
+---
+title: Greenland livelihoods workshop guidance
+nav_exclude: true
+---
 # How to use the Systems Card Game
 # Advertisement on the game:
 

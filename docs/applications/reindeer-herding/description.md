@@ -1,3 +1,7 @@
+---
+title: Reindeer Herding as a Livelihood
+nav_exclude: true
+---
 # Application example: [Reindeer herding as a livelihood in nothern Fennoscandia]
 
 ## 1. Context

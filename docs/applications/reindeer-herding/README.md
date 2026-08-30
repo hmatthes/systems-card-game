@@ -1,3 +1,7 @@
+---
+title: Reindeer herding example
+nav_exclude: true
+---
 # Reindeer herding example
 
 This example shows a concrete deck and workshop setup for reindeer herding
