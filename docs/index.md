@@ -1,32 +1,22 @@
+
+---
+layout: home
+title: Home
+nav_order: 1
+permalink: /
+---
+
 # Systems Card Game
 
-This site presents a card game method for mapping operational systems
-(communities, livelihoods, occupations, etc.) in the context of external
-pressure.
+The Systems Card Game is a participatory tool for mapping and exploring operational systems, such as livelihoods, communities, and occupations.
 
-## Start here
+Participants use cards to identify important elements of a system, arrange them into a shared map, and explore relationships between them. The map can then be used to consider external pressures, possible disruptions, responses, and desired futures.
 
-- [How to use the game](https://github.com/hmatthes/systems-card-game/blob/main/how-to-use/manual.md)
-- [Master template (empty cards)](https://github.com/hmatthes/systems-card-game/tree/main/how-to-use/master-template/)
+## Explore the tool
 
-## Application examples
+- [Learn about the concept and its development](about.md)
+- [Find out how to use the tool](how-to-use.md)
+- [Download materials and create your own card set](downloads/)
+- [Explore existing adaptations and workshop examples](applications/)
 
-- [Reindeer herding (web page with photo)](reindeer-herding.md)
-- [Reindeer herding folder on GitHub](https://github.com/hmatthes/systems-card-game/tree/main/application-examples/reindeer-herding)
-
-## Repository structure
-
-- `how-to-use/` ? general method and generic master template.
-- `application-examples/` ? concrete decks and documented uses.
-- `docs/` ? files that build this website via GitHub Pages.
-
-# Reindeer herding in northern Fennoscandia
-
-![Reindeer herding workshop](assets/images/reindeer-herding.png)
-
-This application of the systems card game was carried out with reindeer
-herders in northern Fennoscandia. It explores how climate change interacts
-with snow conditions, grazing areas, infrastructure, and policy.
-
-For full materials, see the example folder on GitHub:
-https://github.com/hmatthes/systems-card-game/tree/main/application-examples/reindeer-herding
+The materials can be downloaded, adapted, and printed for use in workshops, courses, and other participatory settings.
