@@ -15,7 +15,8 @@ Participants use cards to identify important elements of a system, arrange them 
 
 - [Learn about the concept and its development](about.md)
 - [Find out how to use the tool](how-to-use.md)
-- [Download materials and create your own card set](downloads/)
+- [Download materials and create your own card set](downloads/card-template)
 - [Explore existing adaptations and workshop examples](applications/)
+- [Document your own adaptation and workshop](downloads/documentation-templates)
 
 The materials can be downloaded, adapted, and printed for use in workshops, courses, and other participatory settings.
