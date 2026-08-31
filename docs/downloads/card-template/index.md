@@ -1,6 +1,6 @@
 ---
 title: Card template
-nav_exclude: true
+nav_order: 4
 permalink: /downloads/card-template/
 ---
 
@@ -10,11 +10,12 @@ This folder contains the generic materials for creating an adaptable and printab
 
 ## Files
 
-The following materials are available or will be added here:
+The following materials are available:
 
 - an editable card template;
 - a printable version or example;
 - guidance for adapting and printing the cards.
+- suggestions on workshop design, based in [*Surprises and Dreams*](../../applications/reindeer-herding/)
 
 ## How to create a card set
 
@@ -26,4 +27,6 @@ The following materials are available or will be added here:
 6. Print and test the cards before the workshop.
 7. Include blank cards so participants can add missing elements.
 
-More detailed technical guidance can be added here once the generic template files have been uploaded.
+## Before creating a new set
+
+It may also be useful to look at the [existing adaptations and workshop examples](../../applications/). These demonstrate how the general structure has been adjusted for particular systems and purposes.
