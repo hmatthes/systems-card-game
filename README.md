@@ -3,7 +3,7 @@
 <p align="center">
   <img src="docs/assets/images/Logo.png"
        alt="Systems Card Game logo"
-       width="180">
+       width="360">
   <br>
   <small>Logo by Irina Wang</small>
 </p>
