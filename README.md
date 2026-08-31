@@ -1,9 +1,7 @@
 # Systems Card Game
 
-# Systems Card Game
-
 <p align="center">
-  <img src="docs/assets/images/logo.png"
+  <img src="docs/assets/images/Logo.png"
        alt="Systems Card Game logo"
        width="180">
   <br>

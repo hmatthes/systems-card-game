@@ -24,3 +24,7 @@ The card-template folder will contain:
 ## Before creating a new set
 
 It may also be useful to look at the [existing adaptations and workshop examples](../applications/). These demonstrate how the general structure has been adjusted for particular systems and purposes.
+
+## Reporting on an adapted set of cards of workshop/course 
+
+If you would like to share a set of cards you made or report on a workshop or course where the game was used, please find instructions on how to do so [here](documentation-templates/).

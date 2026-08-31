@@ -9,9 +9,9 @@ permalink: /downloads/documentation-templates/
 
 The templates provided here can be used to document an adaptation of the Systems Card Game or a workshop, course, or other event in which the tool was used. Before sending us a completed document, please ensure that it does not contain personal information, photographs, or participant quotations for which publication permission has not been obtained.
 
-## Adaptation template
+## Adaptations of the game
 
-Use the adaptation template to describe a card set developed for a particular system, topic, or purpose. A fill in Word template can be found for download here: [documentation of adatation](adaptation-report-template.docx)
+Use the adaptation template to describe a card set developed for a particular system, topic, or purpose. A fill in Word template can be found for download here: [documentation of adaptations](adaptation-report-template.docx)
 
 The template covers:
 
@@ -27,7 +27,7 @@ A comprehensive description of the documentation template can be found here: [Ad
 
 ## Workshop or course report
 
-Use the workshop-report template to document a particular occasion on which an adapted card set was used. A fill in Word template can be found for download here: [documentation of adatationa workshop/course](workshop-report-template.docx)
+Use the workshop-report template to document a particular occasion on which an adapted card set was used. A fill in Word template can be found for download here: [documentation of workshops/courses](workshop-report-template.docx)
 
 The template covers:
 
