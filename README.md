@@ -1,5 +1,15 @@
 # Systems Card Game
 
+# Systems Card Game
+
+<p align="center">
+  <img src="docs/assets/images/logo.png"
+       alt="Systems Card Game logo"
+       width="180">
+  <br>
+  <small>Logo by Irina Wang</small>
+</p>
+
 The Systems Card Game is a participatory tool for mapping and exploring operational systems, such as livelihoods, communities, and occupations.
 
 Participants use cards to identify important elements of a system, arrange them into a shared map, and explore the relationships between them. The resulting map can be used to examine external pressures, disruptions, possible responses, and desired futures.
@@ -23,7 +33,7 @@ docs/
 ├── index.md             Website homepage
 ├── about.md             Concept and development of the method
 ├── how-to-use.md        General instructions
-├── downloads/           Generic templates and guidance
+├── downloads/           Generic templates, guidance, and templates to document your adaptations/workshops
 ├── applications/        Adapted card sets and workshop reports
 └── assets/              Images used on the website
 ```
