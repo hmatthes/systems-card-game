@@ -22,7 +22,7 @@ The template covers:
 - guidance for reuse;
 - development, contacts, and references.
 
-The Word template will be available for download here.
+A fill in Word template can be found for download here: (adaptation-template.docx)
 
 ## Workshop or course report
 
