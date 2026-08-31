@@ -8,7 +8,7 @@ permalink: /
 # Systems Card Game
 
 <p align="center">
-  <img src="{{ site.baseurl }}/assets/images/logo.png"
+  <img src="{{ site.baseurl }}/assets/images/Logo.png"
        alt="Systems Card Game logo"
        width="45%">
   <br>
