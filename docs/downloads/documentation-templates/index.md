@@ -27,16 +27,7 @@ The template covers:
 - **Contact*** **and references** *[Please give the name and email of a contact person for your adaptation. if there are publications associated with your adaptation, you can provide them here.*]
 **Workshops or courses using the adaptation** [*if you have used the adaptation, you can provide information here. you can also list the documented workshops/courses you put into the repository*]
 
-
-- the system and purpose;
-- intended users or participants;
-- card categories and languages;
-- changes made to the general tool;
-- available materials;
-- guidance for reuse;
-- development, contacts, and references.
-
-A fill in Word template can be found for download here: (adaptation-template.docx)
+A fill in Word template can be found for download here: [documentation of adatation](adaptation-report-template.docx)
 
 ## Workshop or course report
 
@@ -52,7 +43,7 @@ The template covers:
 - lessons for future use;
 - contacts and references.
 
-The Word template will be available for download here.
+A fill in Word template can be found for download here: [documentation of adatationa workshop/course](workshop-report-template.docx)
 
 ## Contributing an example
 

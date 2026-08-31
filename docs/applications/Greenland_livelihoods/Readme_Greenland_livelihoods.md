@@ -1,5 +1,5 @@
 ---
-title: Greenland/Illullisat livelihoods
+title: Greenland/Illulisat livelihoods
 nav_order: 2
 parent: Adaptations and workshops
 permalink: /applications/Greenland-livelihoods/
