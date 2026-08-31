@@ -1,6 +1,8 @@
 ---
-title: Greenland livelihoods workshop guidance
-nav_exclude: true
+title: Greenland/Illullisat livelihoods
+nav_order: 2
+parent: Adaptations and workshops
+permalink: /applications/Greenland-livelihoods/
 ---
 # How to use the Systems Card Game
 # Advertisement on the game:

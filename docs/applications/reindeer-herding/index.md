@@ -1,6 +1,8 @@
 ---
-title: Reindeer herding example
-nav_exclude: true
+title: Reindeer Herding as a Livelihood
+nav_order: 1
+parent: Adaptations and workshops
+permalink: /applications/reindeer-herding/
 ---
 # Reindeer herding example
 
