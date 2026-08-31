@@ -1,6 +1,7 @@
 ---
 title: Card template
-nav_order: 4
+nav_order: 1
+parent: Download and adapt
 permalink: /downloads/card-template/
 ---
 

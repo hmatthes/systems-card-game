@@ -1,6 +1,7 @@
 ---
 title: Download and adapt
-nav_exclude: true
+nav_order: 4
+has_children: true
 permalink: /downloads/
 ---
 

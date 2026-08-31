@@ -1,6 +1,7 @@
 ---
 title: Documentation templates
-nav_exclude: true
+nav_order: 2
+parent: Download and adapt
 permalink: /downloads/documentation-templates/
 ---
 
