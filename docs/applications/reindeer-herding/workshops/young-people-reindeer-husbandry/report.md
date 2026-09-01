@@ -7,7 +7,7 @@ permalink: /applications/reindeer-herding/workshops/young-people-reindeer-husban
 
 # Surprises and Dreams
 
-[Back to the workshop overview]({{ site.baseurl }}/applications/reindeer-herding/workshops/surprises-and-dreams/)
+[Back to the workshop overview]({{ site.baseurl }}/applications/reindeer-herding/workshops/young-people-reindeer-husbandry/)
 
 ## Adapted card set used
 
@@ -17,62 +17,26 @@ The workshop used the **Reindeer Herding as a Livelihood** card set, also descri
 
 ## Date and location
 
-The workshop took place on **25 August 2022** in **Inari, northern Finland**.
-
-It was held back-to-back with the *Reindeer and Fish Research Days*, organised by the Natural Resources Institute Finland.
+The workshop took place in **25 May 2026** in **Inari, Sodankylä and Sattanen, northern Finland**.
 
 ## Organisers and facilitators
 
-The organising team consisted of researchers from:
-
-- the University of Lapland;
-- the Natural Resources Institute Finland (LUKE);
-- the Lapland University of Applied Sciences.
-
-The researchers served as facilitators and note-takers. The workshop had one general facilitator and, at each table, one chair and one note-taker.
+researchers from University of Lapland (CAP-SHARE, REBOUND projects), in collaboration with Reindeer Herders’ Association
 
 ## Participants
 
-A total of 36 people took part, including nine members of the organising team. Participants worked in four subgroups.
-
-The participants represented:
-
-- seven reindeer-herding cooperatives;
-- the municipality of Inari;
-- the Regional State Administrative Agency for Lapland;
-- the Lapland University of Applied Sciences;
-- the Natural Resources Institute Finland;
-- the Central Union of Agricultural Producers and Forest Owners;
-- the Reindeer Herders’ Association;
-- the Sámi Parliament (Sámediggi);
-- the Sámi Reindeer Herding Cooperatives (Sámi bálgosat rs);
-- the Reindeer Sámi in Finland (Suoma Boazosámit rs).
-
-<!-- Information still needed, if relevant: how participants were invited. -->
+The participants represented young reindeer herders (ages below 15 to over 30) from several herding districts. Some studied at Sámi education institute SOGSAKK in Inari, some in the Lapland University of Applied Sciences, Rovaniemi, all took part in herding work in one way or another with their family/community, and had some idea to have reindeer herding as part of their life in the future.
 
 ## Purpose
 
-The workshop was designed to:
+The workshops were designed to understand the perspective of young herders of the state and future of the livelihood; topics most important for youth in the livelihood. The need was raised by the Reindeer Herders’ Association.
 
-- map the operational environment of reindeer husbandry;
-- explore the effects of selected drivers and disruptive developments;
-- discuss possible responses and adaptations;
-- identify elements of desired futures for reindeer husbandry;
-- facilitate discussion of pathways towards a better future for the livelihood.
-
-**Keywords:** livelihoods; reindeer husbandry; northern Fennoscandia; Arctic.
+**Keywords:** livelihoods, reindeer husbandry, northern Fennoscandia/Arctic, youth
 
 ## Workshop format and duration
 
-The workshop was conducted in Finnish and lasted approximately 3.5 hours. Participants were divided into four subgroups.
+Each workshop consisted one free-form discussion with mapping the operational environment and discussion on central topics, in a future-oriented way. The cards were used to open the discussion and to map the central topics for the groups. Main thing were the messages/statements from the youth, that were drafted in the workshops. 
 
-It consisted of three main stages:
-
-1. **Mapping the operational environment:** Participants used the cards to identify important elements of reindeer husbandry and map relationships between them.
-2. **Surprises:** Joker cards introduced major drivers or disruptive developments. Participants discussed their effects on the mapped system and possible adaptations.
-3. **Dreams:** Participants identified elements of desired futures for reindeer husbandry and discussed possible pathways towards them.
-
-A detailed description of the method is available in Rasmus et al. (2025).
 
 ## Changes made for this event and lessons for future use
 
@@ -86,41 +50,13 @@ if they repeated the workshop?
 
 ## Outcomes and observations
 
-A central insight from the workshop was that the ability to influence land-use planning is a key element of the adaptation capacity of reindeer herders.
-
-More detailed findings are available in the Finnish workshop report, its English summary, and the publications listed below.
+Any follow-up decisions or actions: Messages/statements drafted in the workshops were discussed in “shadow-parliament” for young herders, 31.5.2026, day before the actual reindeer parliament on 1.6.2026 in Rovaniemi, northern Finland (the annual celebration for reindeer husbandry people in Finland). Posters produced were present in the reindeer parliament, and messages/statements were part of the youth panel that was in the parliament programme. The idea is to continue to meet with young herders annually. 
 
 ## Available documentation
 
-### Finnish workshop report
-
-Rasmus, S., Sarkki, S., Pekkarinen, A.-J., Jokinen, M., Mettiäinen, I., Post, L., Rikkonen, T., Sorvali, J. and Väärälä, T. (2023). *Porotalouden tulevaisuus: unelmia ja yllätyksiä*. CHARTER Working Paper 2, Finnish version. [https://doi.org/10.5281/zenodo.18140630](https://doi.org/10.5281/zenodo.18140630)
-
-[Download the Finnish workshop report](https://www.charter-arctic.org/wp-content/uploads/2023/02/Porotalouden_tulevaisuus_tyopaja_-Inari_raportti_221222_valmis.pdf)
-
-### English workshop summary
-
-Rasmus, S., Sarkki, S., Pekkarinen, A.-J., Jokinen, M., Mettiäinen, I., Post, L., Rikkonen, T., Sorvali, J. and Väärälä, T. (2023). *The Future of Reindeer Husbandry: Surprises and Dreams. A Workshop Summary Report*. CHARTER Working Paper 3. [https://doi.org/10.5281/zenodo.18140662](https://doi.org/10.5281/zenodo.18140662)
-
-[Download the English workshop summary](https://www.charter-arctic.org/wp-content/uploads/2023/02/Reindeer-husbandry-dreams-and-surprises-report.pdf)
-
-<!-- Add the test-play time-lapse video to the adaptation overview, rather than here. -->
+Upcoming: article in the Poromies -journal, later in 2026.
 
 ## Contact and references
 
 **Contact:** Sirpa Rasmus, University of Lapland  
 [sirpa.rasmus@ulapland.fi](mailto:sirpa.rasmus@ulapland.fi)
-
-### Workshop results in Finnish
-
-Rasmus, S., Sarkki, S., Turunen, M., Jokinen, M., Kivinen, S., Kumpula, J. and Pekkarinen, A.-J. (2024). Poronhoidon toimintaympäristö nyt ja tulevaisuudessa. In A.-J. Pekkarinen and S. Rasmus (eds.), *Poronhoidon varautuminen ja selviytymiskeinot uusiin, äkillisiin ja poikkeuksellisiin olosuhteisiin: POVAUS-hankkeen loppuraportti*. Luonnonvara- ja biotalouden tutkimus 101/2024. Luonnonvarakeskus, Helsinki, pp. 82–119.
-
-### Workshop method
-
-Rasmus, S., Sarkki, S., Wang, I., Burgess, P., Habeck, J.O., Horstkotte, T., Jokinen, M., Matthes, H., Mettiäinen, I., Parviainen, T., Pekkarinen, A., Post, L., Rikkonen, T., Sorvali, J., Turunen, M., Väärälä, T. and Eronen, J.T. (2025). Surprises and Dreams: workshop method to co-create community-based transformative knowledge. *The Polar Journal*, 15(2), 432–457. [https://doi.org/10.1080/2154896X.2025.2565959](https://doi.org/10.1080/2154896X.2025.2565959)
-
-### Workshop results and adaptation in polycrisis
-
-Sarkki, S., Rasmus, S., Pekkarinen, A., Jokinen, M., Mettiäinen, I., Parviainen, T., Post, L., Rikkonen, T., Sorvali, J., Väärälä, T., Habeck, J.O. and Eronen, J.T. (2026). Adapting in polycrisis: Ensuring access to land as a polysolution for Arctic reindeer herding. *Ambio*.
-
-<!-- Add DOI, volume, issue and page information when available. -->
