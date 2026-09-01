@@ -19,6 +19,6 @@ The template covers:
 - **Guidance for reuse** [*If there is guidance for using the adapted cards, you can add it here. If you have a sperate document, please provide it with your documentation and simply put the name here. We will link it here. If you used general guidance, please indicate that here.*]
 - **Development and contributors*** [*who developed the adaptation?*]
 - **Contact*** **and references** *[Please give the name and email of a contact person for your adaptation. if there are publications associated with your adaptation, you can provide them here.*]
-**Workshops or courses using the adaptation** [*if you have used the adaptation, you can provide information here. you can also list the documented workshops/courses you put into the repository*]
+- **Workshops or courses using the adaptation** [*if you have used the adaptation, you can provide information here. you can also list the documented workshops/courses you put into the repository*]
 
 A fill in Word template can be found for download here: [documentation of adaptation](adaptation-report-template.docx)

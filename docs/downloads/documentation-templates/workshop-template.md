@@ -12,7 +12,7 @@ The template covers:
 - **Title of the workshop or course*** [*a title, if you have one, or a short name for the workshop/course*]
 - **Adapted card set used*** [*which card set was used for this activity?*]
 - **Date and location*** [*where and when did the workshop/course take place*]
-- **Organisers* and facilitators*** [*where and when did the workshop/course take place*]
+- **Organisers* and facilitators** [*where and when did the workshop/course take place*]
 - **Participants*** [*who were the participants? How did they know about the workshop/course? Generalize information as needed, please do not provide personal information*] 
 - **Purpose*** [*what purpose was the workshop/course meant to for? what discussion or decisions was the activity meant to support?*]
 - **Workshop format and duration** *[how was the activity set up? How long did it go on?*]
