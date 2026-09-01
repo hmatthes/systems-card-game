@@ -33,28 +33,20 @@ The complete documentation will describe:
 - available card and facilitation materials;
 - guidance for reuse.
 
-<!--
-Add this button after adaptation.md has been created:
-
 [Read the full adaptation documentation](adaptation.md){: .btn .btn-primary }
--->
 
-## Materials
+The adapted card set is available in five languages.
 
-Reusable card-set and facilitation materials will be made available here.
+- [Download the Finnish card set](materials/230517_DIY_Finnish.pdf)
+- [Download the English card set](materials/230517_DIY_English.pdf)
+- [Download the Swedish card set](materials/230703_DIY_Swedish.pdf)
+- [Download the Norwegian card set](materials/230704_DIY_Norwegian.pdf)
+- [Download the Northern Sámi card set](materials/230809_DIY_Saami.pdf)
 
-<!--
-Add links after the files have been uploaded to materials/, for example:
-
-- [Download the printable card set](materials/card-set.pdf)
-- [Download the editable card set](materials/card-set-editable.pptx)
-- [Download the facilitator guide](materials/facilitator-guide.pdf)
--->
+The card set was test used with researchers from different institutions, the resulting time lapse video can be found here. 
+[See the card set in action.](materials/DreamsAndSurprisesWorkshopTimeLapse-reduced.mp4)
 
 ## Workshops using this adaptation
 
-Documented workshops using this adaptation will be presented here.
-
-<!--
-Add the visual workshop teaser after the workshop page exists.
--->
+- [Surprises and Dreams: Reindeer and Fish Research Days, Inari](workshops/surprises-and-dreams/)
+- [Young People in Reindeer Husbandry: Workshop Series in Inari, Sodankylä and Sattanen](workshops/young-people-reindeer-husbandry/)
