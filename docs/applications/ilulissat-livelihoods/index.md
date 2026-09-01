@@ -11,17 +11,13 @@ This adaptation of the Systems Card Game was developed to explore the community 
 
 Developed for Avannaata Kommunia, the card set helps community members and polar researchers create a shared system map, examine how climate-driven changes might affect it, and discuss possible pathways towards a climate-resilient future.
 
-<!--
-A photograph or image of the card set can be added here later:
-
 <p align="center">
-  <img src="{{ site.baseurl }}/applications/ilulissat-livelihoods/IMAGE-FILENAME.jpg"
+  <img src="{{ site.baseurl }}/applications/ilulissat-livelihoods/Ilulissat-cards.png"
        alt="Ilulissat Livelihoods and Climate Futures card set"
        style="width: 100%; max-width: 620px; height: auto;">
   <br>
   <small>The Ilulissat Livelihoods and Climate Futures card set.</small>
 </p>
--->
 
 ## About this adaptation
 

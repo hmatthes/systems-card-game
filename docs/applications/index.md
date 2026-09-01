@@ -26,5 +26,6 @@ One adaptation may be used in several workshops or courses. Reports of those use
 | Adaptation | Preview |
 |---|---|
 | **[Reindeer Husbandry Operational Environment](reindeer-herding/)**<br><br>A multilingual card set for mapping reindeer husbandry as a livelihood system and exploring environmental, social, economic, and political change. | <a href="reindeer-herding/"><img src="reindeer-herding/card-set.png" alt="Examples from the Reindeer Husbandry Operational Environment card set" style="width: 100%; max-width: 320px; height: auto;"></a> |
+| **[Reindeer Husbandry Operational Environment](ilulissat-livelihoods/)**<br><br>A bilingual card set for mapping livelihoods in Greenland/Ilulissat and exploring climate futures. | <a href="ilulissat-livelihoods/"><img src="ilulissat-livelihoods/Ilulissat-cards.png" alt="Examples from the Greenland/Ilulissat livelihoods card set" style="width: 100%; max-width: 320px; height: auto;"></a> ||
 
 More adaptations and documented applications will be added as they become available.
