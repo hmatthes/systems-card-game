@@ -1,7 +1,7 @@
 ---
 title: Surprises and Dreams full workshop report
 nav_exclude: true
-permalink: /applications/reindeer-herding/workshops/surprises-and-dreams/
+permalink: /applications/reindeer-herding/workshops/surprises-and-dreams/report/
 ---
 
 # Surprises and Dreams
