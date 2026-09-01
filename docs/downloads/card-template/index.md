@@ -14,8 +14,10 @@ This folder contains the generic materials for creating an adaptable and printab
 The following materials are available:
 
 - [an editable and printable card template](230704_DIY_Blank.pdf)
-- guidance for adapting and printing the cards.
-- suggestions on workshop design, based in [*Surprises and Dreams*](../../applications/reindeer-herding/)
+- [guidance for adapting and printing the cards](230418_DIY_Instructions.pdf)
+- [suggestions on workshop design](231024_FacilitationGuide_A4_v2.pdf), based on [*Surprises and Dreams*](../../applications/reindeer-herding/)
+
+This material can also be found on [zenodo](https://doi.org/10.5281/zenodo.8334153) and should be cited as Wang, I., Rasmus, S., Sarkki, S., Habeck, O., Burgess, P., Pekkarinen, A.-J., & Eronen, J. (2023). Playing With Dreams - Workshop Playing Cards. Zenodo. https://doi.org/10.5281/zenodo.10038003
 
 ## How to create a card set
 
