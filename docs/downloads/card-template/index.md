@@ -13,8 +13,7 @@ This folder contains the generic materials for creating an adaptable and printab
 
 The following materials are available:
 
-- an editable card template;
-- a printable version or example;
+- [an editable and printable card template](230704_DIY_Blank.pdf)
 - guidance for adapting and printing the cards.
 - suggestions on workshop design, based in [*Surprises and Dreams*](../../applications/reindeer-herding/)
 
