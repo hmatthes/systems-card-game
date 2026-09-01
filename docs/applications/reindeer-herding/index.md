@@ -11,15 +11,13 @@ This adaptation of the Systems Card Game was developed to explore reindeer herdi
 
 The card set represents elements of the operational environment in which reindeer herding takes place. It can be used to create a shared system map and explore how relationships within that system are affected by environmental, social, economic, and political changes.
 
-<!--
-Add the photograph of the physical card set here when it becomes available:
-
 <p align="center">
-  <img src="{{ site.baseurl }}/applications/reindeer-herding/card-set.jpg"
-       alt="The professionally printed Reindeer Husbandry Operational Environment card set"
+  <img src="{{ site.baseurl }}/applications/reindeer-herding/card-set.png"
+       alt="Examples from the Reindeer Husbandry Operational Environment card set"
        style="width: 100%; max-width: 620px; height: auto;">
+  <br>
+  <small>Examples from the Reindeer Husbandry Operational Environment card set.</small>
 </p>
--->
 
 ## About this adaptation
 
