@@ -68,8 +68,19 @@ The adapted card set is available in five languages.
 - [Download the Norwegian card set](materials/230704_DIY_Norwegian.pdf)
 - [Download the Northern Sámi card set](materials/230809_DIY_Saami.pdf)
 
-The card set was test used with researchers from different institutions, the resulting time lapse video can be found here. 
-[See the card set in action.](materials/DreamsAndSurprisesWorkshopTimeLapse-reduced.mp4)
+The card set was test used with researchers from different institutions, resulting in a time lapse video. See the card set in action.
+
+<video controls
+       preload="metadata"
+       playsinline
+       style="width: 100%; max-width: 720px; height: auto;">
+  <source src="{{ site.baseurl }}/applications/reindeer-herding/materials/DreamsAndSurprisesWorkshopTimeLapse-reduced.mp4"
+          type="video/mp4">
+  Your browser does not support embedded video.
+  <a href="{{ site.baseurl }}/applications/reindeer-herding/materials/DreamsAndSurprisesWorkshopTimeLapse-reduced.mp4">
+    Download the time-lapse video.
+  </a>
+</video>
 
 ## Guidance for reuse
 
