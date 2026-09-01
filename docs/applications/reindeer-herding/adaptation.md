@@ -1,5 +1,5 @@
 ---
-title: Reindeer husbandry operational environment: Full documentation
+title: Reindeer husbandry operational environment
 nav_exclude: true
 permalink: /applications/reindeer-herding/adaptation/
 ---
