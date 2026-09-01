@@ -60,8 +60,4 @@ This short time-lapse shows members of the development team test-playing the car
 | Workshop | Preview |
 |---|---|
 | **[Surprises and Dreams: Reindeer and Fish Research Days, Inari](workshops/surprises-and-dreams/)**<br><br>A participatory workshop mapping the operational environment of reindeer husbandry, exploring disruptive developments, and identifying elements of desired futures. | <a href="workshops/surprises-and-dreams/"><img src="workshops/surprises-and-dreams/surprises-and-dreams.jpg" alt="System map created during the Surprises and Dreams workshop" width="260"></a> |
-
-<!--
-Add the Young People in Reindeer Husbandry teaser here after its landing page and
-documentation are ready.
--->
+| **[Young People in Reindeer Husbandry: Workshop Series in Inari, Sodankylä and Sattanen](young-people-reindeer-husbandry/)**<br><br>A small series of workshops among young reindeer herders, aimed at understanding their perspective of the state and future of the livelihood. The need was raised by the Reindeer Herders’ Association. | <a href="workshops/young-people-reindeer-husbandry/"><img src="workshops/young-people-reindeer-husbandry/young-reindeer-herders.jpg" alt="System map created during the Surprises and Dreams workshop" width="260"></a> |
