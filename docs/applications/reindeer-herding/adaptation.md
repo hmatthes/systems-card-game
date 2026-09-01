@@ -69,15 +69,13 @@ The adapted card set is available in five languages.
 - [Download the Northern Sámi card set](materials/230809_DIY_Saami.pdf)
 
 The card set was test used with researchers from different institutions, the resulting time lapse video can be found here. 
-[See the card set in action.](materials/DreamsAndSurprisesWorkshopTimeLapse.mp4)
+[See the card set in action.](materials/DreamsAndSurprisesWorkshopTimeLapse-reduced.mp4)
 
 ## Guidance for reuse
 
 Detailed guidance on the facilitation of workshops using this card set can be found here:
 
 The reports from workshops using the adaptation also provide practical examples of its application.
-
-## Development and contributors
 
 ## Development and contributors
 

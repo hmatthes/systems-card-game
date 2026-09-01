@@ -1,7 +1,8 @@
 ---
-title: Surprises and Dreams full workshop report
+title: Young People in Reindeer Husbandry
 nav_exclude: true
-permalink: /applications/reindeer-herding/workshops/surprises-and-dreams/report/
+published: false
+permalink: /applications/reindeer-herding/workshops/young-people-reindeer-husbandry/report/
 ---
 
 # Surprises and Dreams
