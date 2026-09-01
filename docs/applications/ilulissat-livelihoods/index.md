@@ -52,18 +52,6 @@ The process combines locally grounded knowledge and experience with information 
 
 ## Workshops using this adaptation
 
-## Workshops using this adaptation
-
-The adaptation was first used during the **Ilulissat Science Forum 2025**, bringing local residents and visiting polar researchers together to explore community connections and climate resilience.
-
-[Read about the Ilulissat Science Forum workshop](workshops/ilulissat-science-forum/)
-A documented workshop using this adaptation will be added here.
-
-<!--
-Once the workshop landing page and image exist, replace the sentence above
-with a teaser in the same format as the reindeer-herding workshops:
-
 | Workshop | Preview |
 |---|---|
-| **[Playing With Dreams: Ilulissat Livelihoods and Climate Futures](workshops/playing-with-dreams/)**<br><br>A facilitated workshop exploring local livelihoods, climate-related disruptions, preparedness and community aspirations for the future. | <a href="workshops/playing-with-dreams/"><img src="workshops/playing-with-dreams/WORKSHOP-IMAGE.jpg" alt="Participants mapping Ilulissat livelihoods during a Playing With Dreams workshop" width="260"></a> |
--->
+| **[Playing With Dreams: Ilulissat Livelihoods and Climate Futures](workshops/ilulissat-science-forum/)**<br><br>A facilitated workshop exploring local livelihoods, climate-related disruptions, preparedness and community aspirations for the future. | <a href="workshops/ilulissat-science-forum/"><img src="workshops/ilulissat-science-forum/ilulissat-workshop.png" alt="Participants mapping Ilulissat livelihoods during a Playing With Dreams workshop" width="260"></a> |
