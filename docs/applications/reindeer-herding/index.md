@@ -1,52 +1,69 @@
 ---
-title: Reindeer husbandry operational environment
+title: Reindeer Husbandry Operational Environment
 nav_order: 1
 parent: Adaptations and workshops
 permalink: /applications/reindeer-herding/
 ---
 
-# Reindeer husbandry operational environment
+# Reindeer Husbandry Operational Environment
 
 This adaptation of the Systems Card Game was developed to explore reindeer herding as a livelihood in northern Fennoscandia.
 
-The card set represents elements of the operational environment in which reindeer herding takes place. It can be used to create a shared system map and to explore how relationships within that system are affected by environmental, social, economic, and political changes.
+The card set represents elements of the operational environment in which reindeer herding takes place. It can be used to create a shared system map and explore how relationships within that system are affected by environmental, social, economic, and political changes.
 
 <!--
-Add a preview image of the adapted card set here when one is available:
+Add the photograph of the physical card set here when it becomes available:
 
 <p align="center">
-  <img src="{{ site.baseurl }}/PATH-TO-IMAGE"
-       alt="Reindeer husbandry operational environment card set"
+  <img src="{{ site.baseurl }}/applications/reindeer-herding/card-set.jpg"
+       alt="The professionally printed Reindeer Husbandry Operational Environment card set"
        style="width: 100%; max-width: 620px; height: auto;">
 </p>
 -->
 
 ## About this adaptation
 
-The adaptation provides a prepared set of cards for discussing reindeer-herding livelihood systems. Participants can select, arrange, connect, and supplement the cards to represent their understanding of the system.
+The prepared card set helps participants identify, arrange, connect, and discuss important elements of reindeer-husbandry livelihood systems.
 
-The complete documentation will describe:
+It is available in five languages and includes cards representing the operational environment, joker cards introducing major drivers and disruptions, and blank cards for additional elements identified by participants.
 
-- the purpose and scope of the adaptation;
-- the card categories and available languages;
-- how the adaptation was developed;
-- available card and facilitation materials;
-- guidance for reuse.
+[Read the full adaptation documentation]({{ site.baseurl }}/applications/reindeer-herding/adaptation/){: .btn .btn-primary }
 
-[Read the full adaptation documentation](adaptation.md){: .btn .btn-primary }
+## Download the card set
 
-The adapted card set is available in five languages.
+| Language | Printable card set |
+|---|---|
+| Finnish | [Download PDF](materials/230517_DIY_Finnish.pdf) |
+| English | [Download PDF](materials/230517_DIY_English.pdf) |
+| Swedish | [Download PDF](materials/230703_DIY_Swedish.pdf) |
+| Norwegian | [Download PDF](materials/230704_DIY_Norwegian.pdf) |
+| Northern Sámi | [Download PDF](materials/230809_DIY_Saami.pdf) |
 
-- [Download the Finnish card set](materials/230517_DIY_Finnish.pdf)
-- [Download the English card set](materials/230517_DIY_English.pdf)
-- [Download the Swedish card set](materials/230703_DIY_Swedish.pdf)
-- [Download the Norwegian card set](materials/230704_DIY_Norwegian.pdf)
-- [Download the Northern Sámi card set](materials/230809_DIY_Saami.pdf)
+## See the cards in action
 
-The card set was test used with researchers from different institutions, the resulting time lapse video can be found here. 
-[See the card set in action.](materials/DreamsAndSurprisesWorkshopTimeLapse-reduced.mp4)
+This short time-lapse shows members of the development team test-playing the card set.
+
+<video controls
+       preload="metadata"
+       playsinline
+       style="width: 100%; max-width: 720px; height: auto;">
+  <source src="{{ site.baseurl }}/applications/reindeer-herding/materials/DreamsAndSurprisesWorkshopTimeLapse-reduced.mp4"
+          type="video/mp4">
+  Your browser does not support embedded video.
+  <a href="{{ site.baseurl }}/applications/reindeer-herding/materials/DreamsAndSurprisesWorkshopTimeLapse-reduced.mp4">
+    Download the time-lapse video.
+  </a>
+</video>
+
+<small>Test play with Otto Habeck, Heidrun Matthes, Sirpa Rasmus, Salla Eilola and Philip Burgess and others.</small>
 
 ## Workshops using this adaptation
 
-- [Surprises and Dreams: Reindeer and Fish Research Days, Inari](workshops/surprises-and-dreams/)
-- [Young People in Reindeer Husbandry: Workshop Series in Inari, Sodankylä and Sattanen](workshops/young-people-reindeer-husbandry/)
+| Workshop | Preview |
+|---|---|
+| **[Surprises and Dreams: Reindeer and Fish Research Days, Inari](workshops/surprises-and-dreams/)**<br><br>A participatory workshop mapping the operational environment of reindeer husbandry, exploring disruptive developments, and identifying elements of desired futures. | <a href="workshops/surprises-and-dreams/"><img src="workshops/surprises-and-dreams/surprises-and-dreams.jpg" alt="System map created during the Surprises and Dreams workshop" width="260"></a> |
+
+<!--
+Add the Young People in Reindeer Husbandry teaser here after its landing page and
+documentation are ready.
+-->
