@@ -1,60 +1,151 @@
 ---
-title: Ilulissat Science Forum 2025
+title: Ilulissat Science Forum 2025 full workshop report
 nav_exclude: true
+permalink: /applications/ilulissat-livelihoods/workshops/ilulissat-science-forum/report/
 ---
-# Application example: Climate-resilient, future-focused workshop for Greenlandic communities.
 
-## 1. Context
-- Location: ILLU Science and Art center, Ilulissat, Greenland
-- Livelihood / system: Ilulissat community of livelihoods
-- Participants (e.g. local community, researchers, etc.): and visiting Polar researchers
-- Date(s) of workshops: 09-11-2025
+# Climate-resilient futures at the Ilulissat Science Forum 2025
 
-## 2. Purpose
-- What questions or decisions was the game meant to support?
-A collaborative systems-modeling tool developed for the Ilulissat Science Forum 2025 to explore climate resilience within Avannaata Kommunia. 
-The game facilitates a participatory mapping process, bringing together the local community and polar researchers to visualize the vital links between community livelihoods and infrastucture. 
-By exploring how these mapped systems respond to climate-driven changes, the workshop aimed to foster a better understanding of community strengths and adaptive pathways for Ilulissat’s future.
+[Back to the workshop overview]({{ site.baseurl }}/applications/ilulissat-livelihoods/workshops/ilulissat-science-forum/)
 
-## 3. Deck description
-- [I DON'T THINK WE NEED THIS] Name of deck:
-- [I think we need this]  Language(s): English and Greenlandic. Greenlandic translation by Kasper Kristensen and Nukaaka Lund-Mathæussen.
-- Link to templates in this repo:
-- Types of cards used (e.g. actors, resources, stressors, practices): The system cards were divided into 4 categories:
-  1) Livelihoods, community
-  2) Climate, environment
-  3) Infrastructure
-  4) Society, economy, governance
-- In this workshop, only the climate related disruption cards were used.
-- The English and Greenlandic cards are in separate files. For dual-language usage, we taped the corresponding cards together.
+## Adapted card set used
 
-## 4. Workshop process
-- Number of sessions: 1
-- Main steps: 1
-- Any adaptations to the generic method:
-The cultural adaptation was provided by Kristiina Verro, Marie Stougaard and Nukaaka Lund-Mathæussen.
-Dual-language cards were used to facilitate seamless communication and knowledge sharing between local residents and researchers in a multi-language environment.
+The workshop used the **Greenland/Ilulissat Livelihoods** card set, developed to represent livelihoods, infrastructure, environmental conditions, society and governance in Ilulissat and the wider context of Avannaata Kommunia.
 
+[Read the card-set documentation]({{ site.baseurl }}/applications/ilulissat-livelihoods/adaptation/)
 
-## 5. Outcomes
-- Main insights: 
-Participants found that having to explain their views to others helped them organize and clarify their own thoughts about how the local system works.
-Listening to different viewpoints provided new insights into how Ilulissat functions and develops.
-For the scientific community, the physical map provided a deeper understanding of the community’s interconnectedness and climate resilience. 
-It helps to ensure their research remains relevant to the people they aim to support.
+## Date and location
 
-- Any follow-up decisions or actions:
-This version of the game is designed for a general community setting and is intended for use in mixed groups. 
-While specifically tailored for Avannaata Kommunia, it can be adapted for other communities with minor adjustments.
+The workshop took place on **9 November 2025** at the **ILLU Science and Art Centre in Ilulissat, Greenland**.
 
-The game can be played with two primary aims:
+It was held as part of the **Ilulissat Science Forum 2025**.
 
-Community Mapping: Local residents can use the game more independently to map the linkages within their community and play through scenarios introduced by "disruptor cards."
-A Collaborative Bridge: The game acts as a bridge between polar scientists and the general population. 
-It allows researchers to learn about the community’s complex infrastructure and livelihoods, 
-while sharing how scientific data might indicate where certain linkages could weaken, break, or change. 
-By bringing these perspectives together, the game fosters a more climate-resilient community and a more informed scientific community.
+## Organisers and facilitators
 
-## 6. Documentation and references
-- Links to papers, reports, or DOIs:
-- Contact person: Kristiina Verro (DMI, kve@dmi.dk)
+The workshop was facilitated by climate scientists from the Danish Meteorological Institute.
+
+The cultural adaptation of the card set was undertaken by Kristiina Verro, Marie Stougaard and Nukaaka Lund-Mathæussen.
+
+The cards were translated into Kalaallisut by Kasper Kristensen and Nukaaka Lund-Mathæussen.
+
+<!--
+Information still needed, if available:
+
+- Names and affiliations of the workshop facilitators
+- Other organising institutions or local partners
+- Number of facilitators and discussion groups
+-->
+
+## Participants
+
+The workshop brought together local residents and visiting polar researchers.
+
+The mixed-group format allowed participants to combine locally grounded knowledge of Ilulissat’s livelihoods and community systems with scientific perspectives on climate-driven change.
+
+<!--
+Information still needed, if available:
+
+- Total number of participants
+- Number of local residents and visiting researchers
+- How participants were invited
+- Number and size of discussion groups
+-->
+
+## Purpose
+
+The workshop used collaborative systems mapping to explore climate resilience within Avannaata Kommunia.
+
+It was designed to:
+
+- map important connections between community livelihoods, infrastructure, environmental conditions and society;
+- bring local residents and polar researchers into a shared discussion;
+- explore how climate-driven changes might affect connections within the community system;
+- identify community strengths and possible adaptive pathways;
+- consider how the community could cope with and prepare for unexpected climatic events;
+- encourage researchers to consider the local relevance of their work; and
+- discuss aspirations for a climate-resilient future.
+
+The workshop placed the voices and experiences of community members at the centre of the process, while allowing visiting researchers to contribute relevant scientific knowledge.
+
+**Keywords:** community livelihoods; climate resilience; Ilulissat; Avannaata Kommunia; Greenland; participatory systems mapping; local knowledge; polar research.
+
+## Workshop format and duration
+
+The workshop consisted of one facilitated session and used both English and Kalaallisut cards.
+
+The process had three main stages:
+
+1. **Mapping:** Participants selected cards that they considered important and worked together to create a map of the community’s livelihood environment. They arranged the cards, drew connections between them and added their own keywords when necessary.
+
+2. **Surprises and preparedness:** Each group introduced a climate-related disruption card and discussed how that development could affect the mapped system. Participants considered which connections might weaken, break or change, and how the community could cope, adapt and prepare.
+
+3. **Dreams and futures:** Participants reflected on personal aspirations connected to their livelihoods. These individual perspectives provided a basis for discussing desirable community futures.
+
+The activity was designed for facilitated groups of approximately five to eight participants.
+
+<!-- Information still needed: total duration of the workshop. -->
+
+## Changes made for this event and lessons for future use
+
+The cards were culturally adapted for the Ilulissat and Avannaata Kommunia context by Kristiina Verro, Marie Stougaard and Nukaaka Lund-Mathæussen.
+
+The English and Kalaallisut cards were supplied in separate printable files. For this bilingual workshop, corresponding English and Kalaallisut cards were taped together. This supported communication and knowledge sharing between local residents and visiting researchers in a multilingual setting.
+
+Although the complete card set contains both climate-related and non-climatic disruption cards, only the climate-related disruption cards were used during this workshop.
+
+The experience indicates that the adaptation can be used in at least two ways:
+
+- **Community mapping:** Local residents can use the game more independently to map relationships within their community and explore scenarios introduced through disruption cards.
+- **A collaborative bridge:** Mixed groups of community members and scientists can use the game to exchange knowledge about community livelihoods, infrastructure and climate-driven change.
+
+The adaptation was developed for Avannaata Kommunia but could be adjusted for use in other communities by revising the locally specific cards.
+
+## Outcomes and observations
+
+Participants reported that explaining their perspectives to other group members helped them organize and clarify their own understanding of how the local system functions.
+
+Listening to different viewpoints also provided new insights into how Ilulissat works and develops.
+
+For participating researchers, the physical system maps provided a deeper understanding of the interconnectedness of community livelihoods, infrastructure and climate resilience. The process helped researchers consider whether their work addresses issues relevant to the people and communities they aim to support.
+
+By bringing local and scientific perspectives together, the workshop demonstrated how the card game can contribute to a more informed scientific community while supporting discussion of community resilience and adaptation.
+
+## Follow-up and potential future use
+
+The adaptation is designed for a general community setting and can be used with mixed groups.
+
+Potential future uses include:
+
+- community-led mapping of local systems;
+- exploring climate-related and other disruptions;
+- supporting preparedness and adaptation discussions;
+- facilitating dialogue between communities and researchers; and
+- adapting the cards for other communities with similar interests or needs.
+
+<!--
+Information still needed, if applicable:
+
+- Were any concrete follow-up activities agreed?
+- Will the cards be used again in Ilulissat or elsewhere?
+- Were the workshop maps or other outputs retained?
+-->
+
+## Available documentation
+
+The printable card sets are available in English and Kalaallisut from the adaptation page.
+
+[Download the English card set]({{ site.baseurl }}/applications/ilulissat-livelihoods/materials/Translation_Illulissat_Eng_final.docx)
+
+[Download the Kalaallisut card set]({{ site.baseurl }}/applications/ilulissat-livelihoods/materials/281025_Illulissat_Kalaallisut_final.docx)
+
+<!-- Add links to workshop photographs, reports or other outputs if available. -->
+
+## Contact and references
+
+**Contact:** Kristiina Verro  
+**Institution:** Danish Meteorological Institute  
+**Email:** [kve@dmi.dk](mailto:kve@dmi.dk)
+
+The card files acknowledge funding from the European Union’s Horizon 2020 Research and Innovation Programme under grant agreement No. 869471, the CHARTER project.
+
+<!-- Add links to the Ilulissat Science Forum, CHARTER or related publications here. -->
