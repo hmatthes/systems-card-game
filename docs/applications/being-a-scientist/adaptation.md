@@ -4,7 +4,7 @@ nav_exclude: true
 permalink: /applications/being-a-scientist/adaptation/
 ---
 
-# Operational environment of being a scientist
+# Operational environment for being a scientist
 
 [Back to the adaptation overview]({{ site.baseurl }}/applications/being-a-scientist/)
 
@@ -14,7 +14,7 @@ This adaptation is a mapping tool for the operational environment of being a sci
 
 ## Purpose
 
-This adaptation was originally made as an attempt of applying the systems card game to a livelihood that is mostly independent of environmental conditions such as climate or the ecosystem.
+This adaptation was originally made as an attempt to apply the systems card game to a livelihood that is mostly independent of environmental conditions such as climate or the ecosystem.
 
 ## Card categories 
 
@@ -26,7 +26,7 @@ This card set is available in English.
 
 ## How the general tool was adapted 
 
-A group of early career researchers at a boot camp for the EU HORIZON project [PolarRES](https://https://polarres.eu) developed the entries for the card set in a round-the-table brainstorming session. Cards were added from multiple requests for feedback, for example at Potsdamer Tag der Wissenschaft in May 2024 at Alfred-Wegener-Insititute's booths and at a Buzz Pan activity at Arctic Center, Rovaniemi, Lapland in March 2024.
+A group of early career researchers at a boot camp for the EU HORIZON project [PolarRES](https://polarres.eu) developed the entries for the card set in a round-the-table brainstorming session. Cards were added from multiple requests for feedback, for example at Potsdamer Tag der Wissenschaft in May 2024 at Alfred-Wegener-Insititute's booths and at a Buzz Pan activity at Arctic Centre, Rovaniemi, Lapland in March 2024.
 
 ## Available materials 
 
@@ -40,11 +40,11 @@ The adaptation is designed for facilitated discussions in groups of approximatel
 
 During the mapping stage, participants take turns selecting two to four cards that they consider important. The group arranges the cards into a shared map and uses markers to show connections between different elements. Participants can create additional keyword cards whenever an important element is missing.
 
-Participants can then identify the parts of the systems - connectors, nodes, dependencies or relationships - they consider most important for being successful as a scientist.
+Participants can then identify the parts of the system - connectors, nodes, dependencies or relationships - they consider most important for being successful as a scientist.
 
 ## Development and contributors 
 
-Main developement was done by Heidrun Matthes, together with early career researchers from the PolarRES project. Additional feedback and developement by Sirpa Rasmus.
+Main development was done by Heidrun Matthes, together with early career researchers from the PolarRES project. Additional feedback and development by Sirpa Rasmus.
 
 ## Contact and references
 
@@ -57,4 +57,4 @@ Main developement was done by Heidrun Matthes, together with early career resear
 
 ## Workshops or courses using the adaptation
 
-[Workshop at the PolarRES ERC Bootcamp, Søminestationen, Holbæk, Denmark](workshops/PolarRES-bootcamp-2023/)
+[Workshop at the PolarRES ECR Bootcamp, Søminestationen, Holbæk, Denmark](workshops/PolarRES-bootcamp-2023/)
