@@ -17,6 +17,8 @@ The template covers:
 - **Purpose*** [*what purpose was the workshop/course meant to for? what discussion or decisions was the activity meant to support?*]
 - **Workshop format and duration** *[how was the activity set up? How long did it go on?*]
 - **Changes made for this particular event/Lessons for future use** [*Did you adapt the tools, workflow, set up in any way? If you did a similar activity again, what would you do differently?*]
+- **Outcomes and observations** [*What were the outcomes of the workshop?*]
+- **Follow-up and potential future use** [*Do you have plans to do similar workshops/courses in the future? What did you do with the results of your activity?*]
 - **Available documentation** [*If you made a documentation of the workshop/course, you can provide it and we will link it here. Please provide the file name.*]
 - **Contact*** **and references** *[Please give the name and email of a contact person for your adaptation. if there are publications associated with your adaptation, you can provide them here.*]
 
