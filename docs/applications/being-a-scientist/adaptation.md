@@ -49,7 +49,7 @@ Main developement was done by Heidrun Matthes, together with early career resear
 ## Contact and references
 
 **Contact:** Heidrun Matthes 
-**Institution:** Alfred Wegener Institut Helmholtz Zentrum f[r Polar- und Meeresforschung] 
+**Institution:** Alfred Wegener Institut Helmholtz Zentrum für Polar- und Meeresforschung
 **Email:** [heidrun.matthes@awi.de](mailto:heidrun.matthes@awi.de)
 
 **Associated projects:** CHARTER — Drivers and Feedbacks of Changes in Arctic Terrestrial Biodiversity  (**Funding:** European Union Horizon 2020 Research and Innovation Programme, grant agreement No. 869471), PolarRES (**Funding:** European Union Horizon 2020 Research and Innovation Programme, grant agreement No. 101003590.)

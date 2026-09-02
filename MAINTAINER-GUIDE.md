@@ -219,47 +219,48 @@ permalink: /applications/ADAPTATION-SLUG/adaptation/
 
 `nav_exclude: true` keeps the documentation page out of the navigation bar while allowing it to be published and linked from the adaptation landing page.
 
-Do not add:
-
-```yaml
-published: false
-```
-
-That would prevent Jekyll from building the page.
-
 The documentation should normally contain:
 
 ```markdown
-# Adaptation title
+# Title of the adaptation* 
+[*a title, if you have one, or a short name for the system*]
 
 [Back to the adaptation overview]({{ site.baseurl }}/applications/ADAPTATION-SLUG/)
 
-## Title of the adaptation
+## System or topic* 
+[*what system or topic was the tool adapted to?*]
 
-## System or topic
-
-## Purpose
+## Purpose* 
+[*for what purpose did you make the tool? what discussion or decisions was the tool meant to support?*]
 
 ## Card categories
+[*if you specified the general card categories into categories more specific to your system, you can list and describe them here*]
 
 ## Languages
+[*in which languages are the cards available?*]
 
-## How the general tool was adapted
+## How the general tool was adapted 
+[*you can describe your adaptation process here*]
 
 ## Available materials
+[*please list the material you would like to make available through the repository*]
 
 ## Guidance for reuse
+[*If there is guidance for using the adapted cards, you can add it here. If you have a sperate document, please provide it with your documentation and simply put the name here. We will link it here. If you used general guidance, please indicate that here.*]
 
-## Development and contributors
+## Development and contributors* 
+[*who developed the adaptation?*]
 
-## Contact and references
+## Contact* and references
+[*Please give the name and email of a contact person for your adaptation. if there are publications associated with your adaptation, you can provide them here.*]
 
 ## Workshops or courses using the adaptation
+[*if you have used the adaptation, you can provide information here. you can also list the documented workshops/courses you put into the repository*]
 ```
 
 Remove sections that genuinely do not apply. Use comments for information that is expected but not yet available.
 
-## 7. Check whether the adaptation needs a teaser
+## 7. If you want the adaptation to have a teaser
 
 All adaptations with:
 
@@ -389,31 +390,43 @@ Do not add `published: false`.
 A normal report contains:
 
 ```markdown
-# Workshop title
+# Title of the workshop or course* 
+[*a title, if you have one, or a short name for the workshop/course*]
 
 [Back to the workshop overview]({{ site.baseurl }}/applications/ADAPTATION-SLUG/workshops/WORKSHOP-SLUG/)
 
-## Adapted card set used
+## Adapted card set used* 
+[*which card set was used for this activity?*]
 
-## Date and location
+## Date and location* 
+[*where and when did the workshop/course take place*]
 
-## Organisers and facilitators
+## Organisers* and facilitators 
+[*where and when did the workshop/course take place*]
 
-## Participants
+## Participants* 
+[*who were the participants? How did they know about the workshop/course? Generalize information as needed, please do not provide personal information*] 
 
-## Purpose
+## Purpose* 
+[*what purpose was the workshop/course meant to for? what discussion or decisions was the activity meant to support?*]
 
 ## Workshop format and duration
+[*how was the activity set up? How long did it go on?*]
 
-## Changes made for this event and lessons for future use
+## Changes made for this particular event/Lessons for future use 
+[*Did you adapt the tools, workflow, set up in any way? If you did a similar activity again, what would you do differently?*]
 
 ## Outcomes and observations
+[*What were the outcomes of the workshop?*]
 
 ## Follow-up and potential future use
+[*Do you have plans to do similar workshops/courses in the future? What did you do with the results of your activity?*]
 
 ## Available documentation
+[*If you made a documentation of the workshop/course, you can provide it and we will link it here. Please provide the file name.*]
 
-## Contact and references
+## Contact* and references 
+[*Please give the name and email of a contact person for your adaptation. if there are publications associated with your adaptation, you can provide them here.*]
 ```
 
 ### Link back to the card-set documentation
@@ -491,127 +504,3 @@ Use the full URL:
 ```markdown
 [View the archived material on Zenodo](https://doi.org/10.xxxx/zenodo.xxxxx)
 ```
-
-Prefer DOI links for permanently archived research materials.
-
-### Important link checks
-
-Links and filenames are case-sensitive on the website:
-
-```text
-Ilulissat-cards.png
-```
-
-and
-
-```text
-ilulissat-cards.png
-```
-
-are not the same filename.
-
-Check carefully for:
-
-- missing folder names;
-- singular versus plural folder names;
-- incorrect capitalization;
-- copied links pointing to an earlier adaptation;
-- missing trailing `/` in permalinks;
-- links to `.md` files instead of their published permalinks.
-
-## 13. Commit the changes
-
-In github.dev:
-
-1. Open the Source Control panel.
-2. Review the list of changed and newly created files.
-3. Enter a short commit message, for example:
-
-   ```text
-   add Ilulissat adaptation and workshop
-   ```
-
-4. Commit the changes.
-5. Synchronize or push the changes if github.dev asks you to do so.
-6. Wait for GitHub Pages to rebuild.
-
-Several small commits are fine and often easier to troubleshoot than one very large commit.
-
-## 14. Check the Pages build
-
-After committing:
-
-1. Open the repository on GitHub.
-2. Select `Actions`.
-3. Look for the most recent Pages build.
-4. Wait until it has completed successfully.
-5. Open the Pages website.
-6. Refresh the page.
-
-If the site still shows an older version, perform a hard refresh:
-
-- Windows: `Ctrl` + `F5`
-- Mac: `Command` + `Shift` + `R`
-
-Browser caching can sometimes make a corrected navigation bar or page appear unchanged.
-
-## 15. Final quality check
-
-### Adaptation checklist
-
-- [ ] Adaptation appears in the automatically generated adaptation list.
-- [ ] Adaptation landing page opens.
-- [ ] Adaptation image appears.
-- [ ] Image has meaningful `alt` text.
-- [ ] Image caption and credit are present where needed.
-- [ ] Full adaptation documentation button works.
-- [ ] All card sets and guidance files download.
-- [ ] Languages are labelled correctly.
-- [ ] External links and DOI links work.
-- [ ] Contributor and translation credits are included.
-- [ ] Contact information is correct.
-- [ ] Workshop teasers lead to the correct workshops.
-
-### Workshop checklist
-
-- [ ] Workshop landing page opens.
-- [ ] Back link to the adaptation works.
-- [ ] Workshop image or images appear.
-- [ ] Images have meaningful `alt` text.
-- [ ] Workshop facts are correct.
-- [ ] Full workshop documentation button works.
-- [ ] Report back link works.
-- [ ] Card-set documentation link works.
-- [ ] External reports and downloads open.
-- [ ] Contact and references are included.
-- [ ] No `published: false` remains in the front matter.
-
-### General checklist
-
-- [ ] Folder and file names use the intended spelling.
-- [ ] Every permalink is unique.
-- [ ] Every permalink starts and ends with `/`.
-- [ ] Copied text does not contain names or links from another example.
-- [ ] The new pages do not create unwanted navigation entries.
-- [ ] The Pages build completes successfully.
-- [ ] The site works on both a wide screen and a narrow browser window.
-
-## 16. Updating or renaming an existing entry
-
-Changing text inside a file does not normally change its website address.
-
-Renaming a folder or changing a permalink does change the address and may break existing links.
-
-When renaming anything:
-
-1. Search the repository for the old folder name, filename or permalink.
-2. Update every link that refers to it.
-3. Check links from:
-   - the applications page;
-   - the adaptation landing page;
-   - workshop pages;
-   - full documentation pages;
-   - the repository README.
-4. Rebuild and test the site again.
-
-Whenever possible, keep an established permalink unchanged even if the visible page title changes.
