@@ -24,7 +24,7 @@ Visit the [Systems Card Game website](https://hmatthes.github.io/systems-card-ga
 
 ## Repository contents
 
-The public website and its downloadable materials are stored in the [`docs`](docs/) folder.
+The public website and its downloadable materials are stored in the [`docs`](docs/) folder. The repository also contains a guide for maintenance that details how the repository maintainers add new adapted card sets or workshop reports.
 
 ```text
 docs/
@@ -34,6 +34,7 @@ docs/
 ├── downloads/           Generic templates, guidance, and templates to document your adaptations/workshops
 ├── applications/        Adapted card sets and workshop reports
 └── assets/              Images used on the website
+MAINTAINER-GUIDE.md      guidelines for the repository maintainers on how to add examples
 ```
 
 ## Adaptations and documented uses

@@ -35,7 +35,12 @@ The adapted card set is available in English.
 - [Download the English card set](materials/BeingAScientist.pdf)
 
 ## Guidance for reuse 
-[*If there is guidance for using the adapted cards, you can add it here. If you have a sperate document, please provide it with your documentation and simply put the name here. We will link it here. If you used general guidance, please indicate that here.*]
+
+The adaptation is designed for facilitated discussions in groups of approximately five to eight people.
+
+During the mapping stage, participants take turns selecting two to four cards that they consider important. The group arranges the cards into a shared map and uses markers to show connections between different elements. Participants can create additional keyword cards whenever an important element is missing.
+
+Participants can then identify the parts of the systems - connectors, nodes, dependencies or relationships - they consider most important for being successful as a scientist.
 
 ## Development and contributors 
 
@@ -51,4 +56,5 @@ Main developement was done by Heidrun Matthes, together with early career resear
 
 
 ## Workshops or courses using the adaptation
- [*if you have used the adaptation, you can provide information here. you can also list the documented workshops/courses you put into the repository*]
+
+[Workshop at the PolarRES ERC Bootcamp, Søminestationen, Holbæk, Denmark](workshops/PolarRES-bootcamp-2023/)
