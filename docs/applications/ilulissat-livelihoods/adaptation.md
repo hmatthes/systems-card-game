@@ -89,6 +89,13 @@ The workshop process was organized around three future-oriented stages:
 
 Participants can create additional cards when the prepared set does not adequately represent their experiences or concerns.
 
+## Available materials
+
+The adapted card set is available in two languages.
+
+- [Download the English card set](materials/Translation_Illulissat_Eng_final.docx)
+- [Download the Kalaallisut card set](materials/281025_Illulissat_Kalaallisut_final.docx)
+
 ## Guidance for reuse
 
 The adaptation is designed for facilitated discussions in groups of approximately five to eight people.
