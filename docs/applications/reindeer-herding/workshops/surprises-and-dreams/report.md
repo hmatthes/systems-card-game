@@ -4,7 +4,7 @@ nav_exclude: true
 permalink: /applications/reindeer-herding/workshops/surprises-and-dreams/report/
 ---
 
-# Surprises and Dreams
+# Surprises and Dreams: Reindeer and Fish Research Days, Inari
 
 [Back to the workshop overview]({{ site.baseurl }}/applications/reindeer-herding/workshops/surprises-and-dreams/)
 

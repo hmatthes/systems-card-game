@@ -55,6 +55,12 @@ Participants first created shared maps of the livelihood system. They then explo
 
 [Read the full workshop documentation](report.md){: .btn .btn-primary }
 
+## Card set
+
+The workshop used the ** Reindeer Husbandry Operational Environment** card set. Its system cards represent Pastures and land use; Reindeer herding and herders; Climate, the natural environment, and reindeer as animals; and Economy, markets, society, and governance.
+
+[View the adaptation and download the cards]({{ site.baseurl }}/applications/reindeer-herding/){: .btn }
+
 ## Workshop reports
 
 A detailed report is available in Finnish, together with an English summary.

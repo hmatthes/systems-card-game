@@ -4,7 +4,7 @@ nav_exclude: true
 permalink: /applications/reindeer-herding/workshops/young-people-reindeer-husbandry/
 ---
 
-# Surprises and Dreams: Reindeer and Fish Research Days, Inari
+# Young People in Reindeer Husbandry: Workshop Series in Inari, Sodankylä and Sattanen
 
 [Back to Reindeer Husbandry Operational Environment]({{ site.baseurl }}/applications/reindeer-herding/)
 
@@ -47,4 +47,15 @@ Three small workshops in Inari, Sodankylä and Sattanen explored young herders�
 | **Format** | three facilitated workshops |
 | **Language** | Finnish |
 
+
 [Read the full workshop documentation](report.md){: .btn .btn-primary }
+
+## Card set
+
+The workshop used the ** Reindeer Husbandry Operational Environment** card set. Its system cards represent Pastures and land use; Reindeer herding and herders; Climate, the natural environment, and reindeer as animals; and Economy, markets, society, and governance.
+
+[View the adaptation and download the cards]({{ site.baseurl }}/applications/reindeer-herding/){: .btn }
+
+## Workshop reports
+
+No further detailed workshop reports are available. 

@@ -34,13 +34,12 @@ Participants created shared maps of the community system, explored how climate-r
 
 ## Card set
 
-The workshop used the **Ilulissat Livelihoods and Climate Futures** card set. Its system cards represent livelihood and community, climate and environment, infrastructure, and society, economy and governance.
+The workshop used the **Greenland/Ilulissat Livelihoods** card set. Its system cards represent livelihood and community, climate and environment, infrastructure, and society, economy and governance.
 
 English and Kalaallisut versions were combined for bilingual use during the workshop.
 
 [View the adaptation and download the cards]({{ site.baseurl }}/applications/ilulissat-livelihoods/){: .btn }
 
-<!--
-Add links to photographs, reports, maps or other workshop outputs here
-if they become available.
--->
+## Workshop reports
+
+No further detailed workshop reports are available. 

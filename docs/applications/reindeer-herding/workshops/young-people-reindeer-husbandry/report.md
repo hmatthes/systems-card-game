@@ -1,11 +1,11 @@
 ---
-title: Young People in Reindeer Husbandry
+title: Young People in Reindeer Husbandry full workshop report
 nav_exclude: true
 published: false
 permalink: /applications/reindeer-herding/workshops/young-people-reindeer-husbandry/report/
 ---
 
-# Surprises and Dreams
+# Young People in Reindeer Husbandry: Workshop Series in Inari, Sodankylä and Sattanen
 
 [Back to the workshop overview]({{ site.baseurl }}/applications/reindeer-herding/workshops/young-people-reindeer-husbandry/)
 
