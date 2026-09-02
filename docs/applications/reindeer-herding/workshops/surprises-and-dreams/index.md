@@ -8,13 +8,36 @@ permalink: /applications/reindeer-herding/workshops/surprises-and-dreams/
 
 [Back to Reindeer Husbandry Operational Environment]({{ site.baseurl }}/applications/reindeer-herding/)
 
-<p align="center">
-  <img src="surprises-and-dreams.jpg"
-       alt="A system map created during the Surprises and Dreams workshop"
-       style="width: 100%; max-width: 520px; height: auto;">
-  <br>
-  <small>A system map created during the workshop.</small>
-</p>
+<figure style="margin: 1.5rem 0;">
+
+  <div style="
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 1rem;
+    align-items: start;
+  ">
+
+    <img src="surprises-and-dreams-1.jpg"
+         alt="Initial map of the operational environment of reindeer husbandry"
+         style="width: 100%; height: auto;">
+
+    <img src="surprises-and-dreams-2.jpg"
+         alt="Critical points identified in the reindeer-husbandry system map"
+         style="width: 100%; height: auto;">
+
+    <img src="surprises-and-dreams-3.jpg"
+         alt="Changes to the system map after pressure cards were introduced"
+         style="width: 100%; height: auto;">
+
+  </div>
+
+  <figcaption style="margin-top: 0.75rem;">
+    <small>
+      Example of the operational environment built in the workshop, after the first, the second, and the third session. Photos: Ilona Mettiäinen.
+    </small>
+  </figcaption>
+
+</figure>
 
 *Surprises and Dreams* was a participatory workshop exploring the operational environment and possible futures of reindeer husbandry.
 
