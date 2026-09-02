@@ -38,10 +38,17 @@ The adapted card set is available in English.
 [*If there is guidance for using the adapted cards, you can add it here. If you have a sperate document, please provide it with your documentation and simply put the name here. We will link it here. If you used general guidance, please indicate that here.*]
 
 ## Development and contributors 
-[*who developed the adaptation?*]
+
+Main developement was done by Heidrun Matthes, together with early career researchers from the PolarRES project. Additional feedback and developement by Sirpa Rasmus.
 
 ## Contact and references
- *[Please give the name and email of a contact person for your adaptation. if there are publications associated with your adaptation, you can provide them here.*]
+
+**Contact:** Heidrun Matthes 
+**Institution:** Alfred Wegener Institut Helmholtz Zentrum f[r Polar- und Meeresforschung] 
+**Email:** [heidrun.matthes@awi.de](mailto:heidrun.matthes@awi.de)
+
+**Associated projects:** CHARTER — Drivers and Feedbacks of Changes in Arctic Terrestrial Biodiversity  (**Funding:** European Union Horizon 2020 Research and Innovation Programme, grant agreement No. 869471), PolarRES (**Funding:** European Union Horizon 2020 Research and Innovation Programme, grant agreement No. 101003590.)
+
 
 ## Workshops or courses using the adaptation
  [*if you have used the adaptation, you can provide information here. you can also list the documented workshops/courses you put into the repository*]
