@@ -12,7 +12,7 @@ This adaptation of the Systems Card Game was developed to explore being a scient
 The card set represents elements of the operational environment in which scientists work. It can be used to create a shared system map and explore how relationships within that system are affected by external conditions like society, economy and culture, by intitutional norms and governance, by required skills and practial ways of working as well as by limited resoures and infrastructure.
 
 <p align="center">
-  <img src="{{ site.baseurl }}/applications/being-a-scientist/ScientistCards.jpg"
+  <img src="{{ site.baseurl }}/applications/being-a-scientist/ScientistCards-1.jpg"
        alt="Examples from the Being a Scientist Operational Environment card set"
        style="width: 100%; max-width: 620px; height: auto;">
   <br>
