@@ -11,9 +11,7 @@ The materials in this section can be used to create a card set for a new system 
 
 ## Generic card template
 
-The generic card template provides an editable and printable starting point for making a new set of cards.
-
-[Open the card-template folder](card-template/)
+The generic card template provides an editable and printable starting point for making a new set of cards. We also provide a document for guidance for adapting and printing the cards as well as suggestions on workshop design. [Open the card-template folder](card-template/)
 
 ### Before creating a new set
 

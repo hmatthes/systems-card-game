@@ -36,4 +36,4 @@ Participants explore possible responses, adaptations, and desired futures. The p
 
 The number of participants, facilitation format, card categories, and later exercises can all be adjusted. The documented adaptations and workshop reports show how the method has been used in different contexts.
 
-More detailed guidance will be added as the general instructions are developed.
+More detailed guidance will be added as the general instructions are developed. We provide [an editable and printable card template](230704_DIY_Blank.pdf), [guidance for adapting and printing the cards](230418_DIY_Instructions.pdf) and [suggestions on workshop design](231024_FacilitationGuide_A4_v2.pdf), based on [*Surprises and Dreams*](../../applications/reindeer-herding/). 
