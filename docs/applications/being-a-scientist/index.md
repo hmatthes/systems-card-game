@@ -31,7 +31,7 @@ It is available in English and includes cards representing the operational envir
 
 | Language | Printable card set |
 |---|---|
-| English | [Download PDF](materials/230517_DIY_English.pdf) |
+| English | [Download PDF](materials/BeingAScientist.pdf) |
 
 
 ## Workshops using this adaptation
