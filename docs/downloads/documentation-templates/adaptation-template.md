@@ -12,7 +12,7 @@ The template covers:
 - **Title of the adaptation*** [*a title, if you have one, or a short name for the system*]
 - **System or topic*** [*what system or topic was the tool adapted to?*]
 - **Purpose*** [*for what purpose did you make the tool? what discussion or decisions was the tool meant to support?*]
-- **Card categories** *[if you specified the general card categories into categories more specific to your system, you can list and describe them here*]
+- **Card categories** [*if you specified the general card categories into categories more specific to your system, you can list and describe them here*]
 - **Languages** [*in which languages are the cards available?*]
 - **How the general tool was adapted** [*you can describe your adaptation process here*]
 - **Available materials** [*please list the material you would like to make available through the repository*]
