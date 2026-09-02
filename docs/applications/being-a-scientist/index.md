@@ -5,7 +5,7 @@ parent: Adaptations and workshops
 permalink: /applications/being-a-scientist/
 ---
 
-# Operational environment for being a scientis
+# Operational environment for being a scientist
 
 This adaptation of the Systems Card Game was developed to explore being a scientist as a career path.
 
@@ -48,4 +48,4 @@ The card set was expanded by requests for feedback on multiple occasions, for ex
 
 | Workshop | Preview |
 |---|---|
-| **[Workshop at the PolarRES ERC Bootcamp, Søminestationen, Holbæk, Denmark](workshops/PolarRES-bootcamp-2023/)**<br><br>A participatory workshop mapping the operational environment of being a scientist, finding relevant system elements end identifying the most critical points in the system. | <a href="workshops/PolarRES-bootcamp-2023/"><img src="workshops/PolarRES-bootcamp-2023/being-a-scientist.jpeg" alt="System entries created during the mapping workshop at the PolarRES ERC Bootcamp" width="260"></a> |
+| **[Workshop at the PolarRES ECR Bootcamp, Søminestationen, Holbæk, Denmark](workshops/PolarRES-bootcamp-2023/)**<br><br>A participatory workshop mapping the operational environment of being a scientist, finding relevant system elements end identifying the most critical points in the system. | <a href="workshops/PolarRES-bootcamp-2023/"><img src="workshops/PolarRES-bootcamp-2023/being-a-scientist.jpeg" alt="System entries created during the mapping workshop at the PolarRES ERC Bootcamp" width="260"></a> |
