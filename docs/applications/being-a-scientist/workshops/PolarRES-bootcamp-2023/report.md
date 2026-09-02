@@ -1,5 +1,5 @@
 ---
-title: PolarRES ERC Bootcamp full workshop report
+title: PolarRES ECR Bootcamp full workshop report
 nav_exclude: true
 permalink: /applications/being-a-scientist/workshops/PolarRES-bootcamp-2023/report/
 ---
