@@ -38,4 +38,4 @@ It is available in English and includes cards representing the operational envir
 
 | Workshop | Preview |
 |---|---|
-| **[PolarRES ERC Bootcamp, Søminestationen, Holbæk, Denmark ](workshops/PolarRES-bootcamp-2023/)**<br><br>A participatory workshop mapping the operational environment of being a scientist, finding relevant system elements end identifying the most critical points in the system. | <a href="workshops/PolarRES-bootcamp-2023/"><img src="workshops/PolarRES-bootcamp-2023/being-a-scientist.jepg" alt="System map created during the Surprises and Dreams workshop" width="260"></a> |
+| **[Workshop at the PolarRES ERC Bootcamp, Søminestationen, Holbæk, Denmark ](workshops/PolarRES-bootcamp-2023/)**<br><br>A participatory workshop mapping the operational environment of being a scientist, finding relevant system elements end identifying the most critical points in the system. | <a href="workshops/PolarRES-bootcamp-2023/"><img src="workshops/PolarRES-bootcamp-2023/being-a-scientist.jepg" alt="System entries created during the mapping workshop at the PolarRES ERC Bootcamp" width="260"></a> |
