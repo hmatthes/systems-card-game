@@ -1,7 +1,6 @@
 ---
 title: Young People in Reindeer Husbandry full workshop report
 nav_exclude: true
-published: false
 permalink: /applications/reindeer-herding/workshops/young-people-reindeer-husbandry/report/
 ---
 
