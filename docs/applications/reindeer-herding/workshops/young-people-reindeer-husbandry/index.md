@@ -43,12 +43,8 @@ Three small workshops in Inari, Sodankylä and Sattanen explored young herders�
 | **Location** | Inari, Sodankylä and Sattanen, northern Finland |
 | **Context** | workshop need raised by Reindeer Herders' Association |
 | **Duration** |  |
-| **Participants** |  |
+| **Participants** | young reindeer herders (ages below 15 to over 30) from several herding districts |
 | **Format** | three facilitated workshops |
 | **Language** | Finnish |
 
 [Read the full workshop documentation](report.md){: .btn .btn-primary }
-
-## Workshop reports
-
-not available yet

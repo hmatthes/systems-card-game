@@ -59,6 +59,6 @@ Participants first created shared maps of the livelihood system. They then explo
 
 A detailed report is available in Finnish, together with an English summary.
 
-[Download the Finnish workshop report](https://www.charter-arctic.org/wp-content/uploads/2023/02/Porotalouden_tulevaisuus_tyopaja_-Inari_raportti_221222_valmis.pdf){: .btn }
+[Download the Finnish workshop report](Porotalouden_tulevaisuus_tyopaja_-Inari_raportti_221222_valmis.pdf){: .btn }
 
-[Download the English workshop summary](https://www.charter-arctic.org/wp-content/uploads/2023/02/Reindeer-husbandry-dreams-and-surprises-report.pdf){: .btn }
+[Download the English workshop summary](Reindeer-husbandry-dreams-and-surprises-report.pdf){: .btn }
