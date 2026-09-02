@@ -1,7 +1,7 @@
 ---
 title: Greenland/Ilulissat Livelihoods
 nav_exclude: true
-permalink: /applications/ilulissat-livelihoods/
+permalink: /applications/ilulissat-livelihoods/adaptation/
 ---
 
 # Greenland/Ilulissat Livelihoods
