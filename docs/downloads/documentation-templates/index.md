@@ -55,7 +55,7 @@ You only need to complete one format.
 [Open the workshop template](workshop-template/){: .btn }
 
 
-### 3. Prepare the accompanying materials
+## 3. Prepare the accompanying materials
 
 Please include, where available:
 
@@ -85,9 +85,9 @@ Please do **not** upload consent forms, participant lists, private contact detai
 
 If permission to use a photograph is uncertain, you can instead provide an image of the cards, a system map or other workshop materials without recognizable people.
 
-### 4. Send us your contribution
+## 4. Send us your contribution
 
-#### Submit through GitHub
+### Submit through GitHub
 
 On the GitHub page linked below, select **Submit an adaptation or workshop**. You will need to sign in to a GitHub account.
 
@@ -95,7 +95,7 @@ On the GitHub page linked below, select **Submit an adaptation or workshop**. Yo
 
 Attach the completed template and the files intended for publication. GitHub issues and their attachments are public, so do not include consent forms or confidential information.
 
-#### Submit by email
+### Submit by email
 
 If you do not use GitHub, send the completed template and accompanying materials to:
 
@@ -105,7 +105,7 @@ For files that are too large for email, contact us first and we will agree on a 
 
 If you are already comfortable working with GitHub, you may also propose the completed pages through a pull request.
 
-### What happens after submission?
+## What happens after submission?
 
 The repository maintainers will:
 
