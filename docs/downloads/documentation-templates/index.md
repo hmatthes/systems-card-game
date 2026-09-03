@@ -89,7 +89,9 @@ If permission to use a photograph is uncertain, you can instead provide an image
 
 #### Submit through GitHub
 
-[Submit an adaptation or workshop through GitHub](https://github.com/hmatthes/systems-card-game/issues/new?template=submit-example.yml){: .btn .btn-primary }
+On the GitHub page linked below, select **Submit an adaptation or workshop**. You will need to sign in to a GitHub account.
+
+[Submit an adaptation or workshop through GitHub](https://github.com/hmatthes/systems-card-game/issues/new/choose){: .btn .btn-primary }
 
 Attach the completed template and the files intended for publication. GitHub issues and their attachments are public, so do not include consent forms or confidential information.
 
