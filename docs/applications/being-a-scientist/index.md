@@ -14,7 +14,7 @@ The card set represents elements of the operational environment in which scienti
 <p align="center">
   <img src="{{ site.baseurl }}/applications/being-a-scientist/ScientistCards-1.jpg"
        alt="Examples from the Being a Scientist Operational Environment card set"
-       style="width: 100%; max-width: 620px; height: auto;">
+       style="width: 60%; max-width: 620px; height: auto;">
   <br>
   <small>Examples from the Being a Scientist Operational Environment card set.</small>
 </p>
