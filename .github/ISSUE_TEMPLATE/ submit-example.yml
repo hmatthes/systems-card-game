@@ -30,7 +30,7 @@ body:
     attributes:
       label: Title
       description: Give the adaptation or workshop a short, descriptive title.
-      placeholder: Example: Reindeer Husbandry Operational Environment
+      placeholder: "Example: Reindeer Husbandry Operational Environment"
     validations:
       required: true
 
@@ -50,7 +50,7 @@ body:
       label: Adaptation or card set used
       description: |
         For a workshop submission, tell us which adaptation or card set was used. Leave this blank if it does not apply.
-      placeholder: Example: Reindeer Husbandry Operational Environment
+      placeholder: "Example: Reindeer Husbandry Operational Environment"
     validations:
       required: false
 
