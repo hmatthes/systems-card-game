@@ -43,7 +43,7 @@ The template covers:
 [*If you made a documentation of the workshop/course, you can provide it and we will link it here. Please provide the file name.*]
 
 ## Contact* and references 
-[*Please give the name and email of a contact person for your adaptation. if there are publications associated with your adaptation, you can provide them here.*]
+[*Please provide a contact person and their preferred public contact method. An email address is optional and will only be displayed with the contact person's explicit permission. If there are publications associated with your adaptation, you can provide them here.*]
 
 
 

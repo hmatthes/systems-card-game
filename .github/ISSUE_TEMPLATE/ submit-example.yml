@@ -1,0 +1,161 @@
+name: Submit an adaptation or workshop
+description: Propose an example for inclusion on the Systems Card Game website
+title: "[Example submission]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for sharing your experience with the Systems Card Game!
+
+        Use this form to propose an adaptation, workshop, course or other application for inclusion on our website.
+
+        This issue and all files attached to it will be publicly visible. Please do not include consent forms, participant lists, private contact details or other confidential information.
+
+        You do not need to understand the structure of the repository. The maintainers will organise the submitted material and prepare the web pages with you.
+
+  - type: dropdown
+    id: submission-type
+    attributes:
+      label: Type of submission
+      description: What would you like to document?
+      options:
+        - An adaptation or card set
+        - A workshop, course or event
+        - Both an adaptation and an associated workshop
+    validations:
+      required: true
+
+  - type: input
+    id: title
+    attributes:
+      label: Title
+      description: Give the adaptation or workshop a short, descriptive title.
+      placeholder: Example: Reindeer Husbandry Operational Environment
+    validations:
+      required: true
+
+  - type: textarea
+    id: summary
+    attributes:
+      label: Short summary
+      description: |
+        In two to four sentences, describe the adaptation or event and why it may be useful to others.
+      placeholder: This adaptation was developed to...
+    validations:
+      required: true
+
+  - type: input
+    id: adaptation-used
+    attributes:
+      label: Adaptation or card set used
+      description: |
+        For a workshop submission, tell us which adaptation or card set was used. Leave this blank if it does not apply.
+      placeholder: Example: Reindeer Husbandry Operational Environment
+    validations:
+      required: false
+
+  - type: upload
+    id: documentation
+    attributes:
+      label: Completed documentation
+      description: |
+        Upload either the completed Word template or a completed Markdown file. You only need to provide one format.
+    validations:
+      required: true
+
+  - type: upload
+    id: materials
+    attributes:
+      label: Materials for publication
+      description: |
+        Upload any card sets, facilitation guidelines, reports or other files that you would like us to publish. Please upload only material intended for public access.
+    validations:
+      required: false
+
+  - type: textarea
+    id: material-description
+    attributes:
+      label: Description of the materials
+      description: |
+        List the uploaded files and briefly explain what each contains. Include the language of each file where relevant.
+      placeholder: |
+        - cards-english.pdf — printable English card set
+        - facilitation-guide.pdf — workshop instructions
+    validations:
+      required: false
+
+  - type: upload
+    id: images
+    attributes:
+      label: Images
+      description: |
+        Upload one or more images that could be used on the example page. Images are optional. Do not upload consent forms here.
+    validations:
+      required: false
+
+  - type: textarea
+    id: image-information
+    attributes:
+      label: Image captions, descriptions and credits
+      description: |
+        For each image, provide a caption, a short description for people who cannot see the image, and the photographer or other required credit.
+      placeholder: |
+        image-name.jpg
+        Caption:
+        Image description:
+        Photographer/credit:
+    validations:
+      required: false
+
+  - type: textarea
+    id: contributors
+    attributes:
+      label: Contributors and acknowledgements
+      description: |
+        List the developers, organisers, facilitators, translators, funders and other people or organisations that should be credited.
+    validations:
+      required: false
+
+  - type: textarea
+    id: references
+    attributes:
+      label: References and links
+      description: |
+        Provide any relevant publications, reports, project pages, DOIs or other links.
+    validations:
+      required: false
+
+  - type: textarea
+    id: public-contact
+    attributes:
+      label: Public contact information
+      description: |
+        Optional. Provide a contact name, institution and preferred public contact method. Only include an email address if that person has agreed to have it displayed publicly.
+      placeholder: |
+        Name:
+        Institution:
+        Public email, profile or website:
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: publication-permission
+    attributes:
+      label: Permission to publish
+      description: Please confirm the following statements.
+      options:
+        - label: I own the submitted material or have permission from the relevant rightsholders to submit it for publication in this public repository and website.
+          required: true
+        - label: I understand that the maintainers will confirm the applicable reuse or licensing terms with me before publication.
+          required: true
+        - label: I have not included consent forms, participant lists, private contact details or other confidential information.
+          required: true
+        - label: Any images I submitted may be published online, and the necessary permissions from the photographer, rightsholder and recognizable people have been obtained.
+          required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        The person or organisation submitting photographs should retain the underlying consent records. Please do not upload those records to GitHub.
+
+        After receiving the submission, the maintainers will check the material, contact you through this issue if anything is missing, prepare the website pages and ask you to review substantial editorial changes before publication.

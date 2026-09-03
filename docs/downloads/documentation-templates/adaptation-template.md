@@ -37,7 +37,7 @@ The template covers:
 [*who developed the adaptation?*]
 
 ## Contact* and references
-[*Please give the name and email of a contact person for your adaptation. if there are publications associated with your adaptation, you can provide them here.*]
+[*Please provide a contact person and their preferred public contact method. An email address is optional and will only be displayed with the contact person's explicit permission. If there are publications associated with your adaptation, you can provide them here.*]
 
 ## Workshops or courses using the adaptation
 [*if you have used the adaptation, you can provide information here. you can also list the documented workshops/courses you put into the repository*]
