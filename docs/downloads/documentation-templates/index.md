@@ -89,7 +89,7 @@ If permission to use a photograph is uncertain, you can instead provide an image
 
 #### Submit through GitHub
 
-[Open a contribution request](LINK-TO-GITHUB-ISSUE-FORM){: .btn .btn-primary }
+[Submit an adaptation or workshop through GitHub](https://github.com/hmatthes/systems-card-game/issues/new?template=submit-example.yml){: .btn .btn-primary }
 
 Attach the completed template and the files intended for publication. GitHub issues and their attachments are public, so do not include consent forms or confidential information.
 
