@@ -7,7 +7,11 @@ permalink: /downloads/documentation-templates/
 
 ## Contributing an example
 
-The templates provided here can be used to document an adaptation of the Systems Card Game or a workshop, course, or other event in which the tool was used. Before sending us a completed document, please ensure that it does not contain personal information, photographs, or participant quotations for which publication permission has not been obtained.
+Use the **adaptation template** when you have created or modified a card set for a particular system, livelihood, place or topic. Use the **workshop template** when you are documenting a particular workshop, course or other event in which a card set was used.
+
+A workshop should identify the adaptation or card set that it used. If that adaptation has not yet been documented, please consider submitting both templates.
+
+Before sending us a completed document, please ensure that it does not contain personal information, photographs, or participant quotations for which publication permission has not been obtained.
 
 ## Adaptations of the game
 
