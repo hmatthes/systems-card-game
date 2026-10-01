@@ -1,38 +1,30 @@
 ---
-title: PolarRES ECR Bootcamp
+title: Workshop with Danish Secondary School
 nav_exclude: true
-permalink: /applications/being-a-scientist/workshops/PolarRES-bootcamp-2023/
+permalink: /applications/being-a-frog/workshops/Danish-secondary-school/
 ---
 
-# Workshop at the PolarRES ECR Bootcamp, Søminestationen, Holbæk, Denmark
+# Workshop with a Danish Secondary School
 
-[Back to Operational environment for being a scientist]({{ site.baseurl }}/applications/being-a-scientist/)
+[Back to Operational environment for being a frog]({{ site.baseurl }}/applications/being-a-frog/)
 
-<p align="center">
-  <img src="being-a-scientist.jpeg"
-       alt="System entries created during the mapping workshop at the PolarRES ECR Bootcamp"
-       style="width: 100%; max-width: 520px; height: auto;">
-  <br>
-  <small>System entries and most critical system components created during the mapping workshop at the PolarRES ECR Bootcamp. Photo by Oskar Landgren.</small>
-</p>
-
-The workshop at the PolarRES ECR Bootcamp was a participatory pilot exploring how the systems card game can be adapted to livelihoods that are not environmentally dependent. Participants first created entries for different categories of cards, marking which componenets of the system could be in multiple categories. Then they pointed out which parts of the system they considered most critical for being successful as a scientist.
+The workshop aimed to make the kids reflect on system interconnections (environmental and climate related) especially their everyday life and surroundings at their local community. Purpose was to make kids aware of their own effect and response on their surroundings. To make them map connections and find interconnections they were not aware of. Furthermore to let then exploring how these mapped systems respond to climate-driven changes.
 
 | Workshop information | |
 |---|---|
-| **Date** | July 3rd 2023 |
-| **Location** | Holbæk, Denmark |
-| **Context** | PolarRES Early Career Researcher's Bootcamp |
-| **Duration** | Approximately 1.5 hours |
-| **Participants** | approximately 15 ECRs |
-| **Format** | round-the-table |
-| **Language** | English |
+| **Date** | January 2006 |
+| **Location** | Danish Meteorological Insitute, Copenhagen, Denmark|
+| **Context** | secondary school students, grades 7-9 |
+| **Duration** |  |
+| **Participants** |  |
+| **Format** |  |
+| **Language** | Danish |
 
 [Read the full workshop documentation](report.md){: .btn .btn-primary }
 
 ## Card set
 
-The workshop used the **Operational environment for being a scientist** card set. Its system cards represent Conditions for participation in science, Rules and recognition, Scientific work practice, and Competition and Access.
+The workshop used the **Being a Frog** card set. Its system cards represent Livelihoods and Community, Climate and Environment, Infrastructure as well as Society, Economy and Governance.
 
 
-[View the adaptation and download the cards]({{ site.baseurl }}/applications/being-a-scientist/){: .btn }
+[View the adaptation and download the cards]({{ site.baseurl }}/applications/being-a-frog/){: .btn }
