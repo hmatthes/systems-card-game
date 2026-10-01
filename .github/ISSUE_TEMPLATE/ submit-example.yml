@@ -13,6 +13,8 @@ body:
 
         You do not need to understand the structure of the repository. The maintainers will organise the submitted material and prepare the web pages with you.
 
+        Please be aware that by sharing material through this repository, you agree to that material being altered and reused by others. 
+
   - type: dropdown
     id: submission-type
     attributes:
@@ -57,9 +59,16 @@ body:
   - type: upload
     id: documentation
     attributes:
-      label: Completed documentation
+      label: Completed adaptation or workshop documentation
       description: |
-        Upload either the completed Word template or a completed Markdown file. You only need to provide one format.
+        Please attach the completed documentation for your adaptation or workshop.
+
+        You can prepare this in either of two ways:
+
+        - download and complete one of our Word templates; or
+        - copy the questions from the corresponding online template into a Markdown file and complete them there.
+
+        You only need to use one format. All Word and online templates, together with instructions for choosing the appropriate one, are available on the [Documentation templates page](https://hmatthes.github.io/systems-card-game/downloads/documentation-templates/).
     validations:
       required: true
 
