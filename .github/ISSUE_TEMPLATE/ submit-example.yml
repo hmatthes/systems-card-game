@@ -15,6 +15,23 @@ body:
 
         Please be aware that by sharing material through this repository, you agree to that material being altered and reused by others. 
 
+  - type: markdown
+    attributes:
+      value: |
+        ## What are you documenting?
+
+        An **adaptation** is a reusable version of the card set developed for a particular system, livelihood, place or topic.
+
+        A **workshop** is a particular event, course or activity in which a card set was used.
+
+        You may submit:
+
+        - an adaptation without a workshop;
+        - one or more workshops using an adaptation or card set that is already available; or
+        - an adaptation together with one or more associated workshops.
+
+        You only need to complete the sections and documentation templates that apply to your submission. Please tell us below what you are going to document.
+
   - type: dropdown
     id: submission-type
     attributes:
@@ -27,50 +44,84 @@ body:
     validations:
       required: true
 
-  - type: input
-    id: title
+  - type: markdown
     attributes:
-      label: Title
-      description: Give the adaptation or workshop a short, descriptive title.
+      value: |
+        ## Adaptation or card set
+
+        Complete this section only if you are submitting documentation for an adaptation or card set. If you are only documenting a workshop using an existing card set, you may leave this section blank.
+
+  - type: input
+    id: adaptation-title
+    attributes:
+      label: Adaptation or card-set title
+      description: Leave this blank if you are not submitting an adaptation.
       placeholder: "Example: Reindeer Husbandry Operational Environment"
     validations:
-      required: true
+      required: false
 
   - type: textarea
     id: summary
     attributes:
       label: Short summary
       description: |
-        In two to four sentences, describe the adaptation or event and why it may be useful to others.
+        In two to four sentences, describe the adaptation and why it may be useful to others.
       placeholder: This adaptation was developed to...
     validations:
       required: true
 
-  - type: input
-    id: adaptation-used
+
+  - type: upload
+    id: adaptation-documentation
     attributes:
-      label: Adaptation or card set used
+      label: Adaptation documentation
       description: |
-        For a workshop submission, tell us which adaptation or card set was used. Leave this blank if it does not apply.
+        Attach a completed adaptation template if you are documenting an adaptation or card set.
+
+        You may use either the Word template or the online Markdown template. You do not need to provide both formats. The templates are available on the [Documentation templates page](https://hmatthes.github.io/systems-card-game/downloads/documentation-templates/).
+    validations:
+      required: false     
+
+  - type: markdown
+    attributes:
+      value: |
+        ## Workshop, course or event
+
+        Complete this section if you are submitting one or more workshops, courses or events. You do not need to document the card set again if it is already available.
+
+  - type: textarea
+    id: workshop-titles
+    attributes:
+      label: Workshop or course title(s)
+      description: Leave this blank if you are not submitting a workshop. List each workshop separately if you are submitting more than one.
+      placeholder: |
+        - Workshop title
+        - Additional workshop title
+    validations:
+      required: false
+
+  - type: input
+    id: card-set-used
+    attributes:
+      label: Card set used in the workshop
+      description: |
+        Give the name of the adaptation or card set used. If it is already documented online, please also provide a link. It does not need to have been adapted specifically for this workshop.
       placeholder: "Example: Reindeer Husbandry Operational Environment"
     validations:
       required: false
 
   - type: upload
-    id: documentation
+    id: workshop-documentation
     attributes:
-      label: Completed adaptation or workshop documentation
+      label: Workshop documentation
       description: |
-        Please attach the completed documentation for your adaptation or workshop.
+        Attach one completed workshop template for each workshop, course or event you would like to document.
 
-        You can prepare this in either of two ways:
-
-        - download and complete one of our Word templates; or
-        - copy the questions from the corresponding online template into a Markdown file and complete them there.
-
-        You only need to use one format. All Word and online templates, together with instructions for choosing the appropriate one, are available on the [Documentation templates page](https://hmatthes.github.io/systems-card-game/downloads/documentation-templates/).
+        You may use either the Word template or the online Markdown template. You do not need to provide both formats. The templates are available on the [Documentation templates page](https://hmatthes.github.io/systems-card-game/downloads/documentation-templates/).
     validations:
-      required: true
+      required: false
+
+
 
   - type: upload
     id: materials
@@ -161,6 +212,8 @@ body:
           required: true
         - label: Any images I submitted may be published online, and the necessary permissions from the photographer, rightsholder and recognizable people have been obtained.
           required: true
+        - label: I am aware that material I provide here may be used and adapted by others.
+          required: true  
 
   - type: markdown
     attributes:
