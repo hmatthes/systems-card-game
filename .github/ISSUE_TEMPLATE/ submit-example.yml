@@ -215,6 +215,14 @@ body:
         - label: I am aware that material I provide here may be used and adapted by others.
           required: true  
 
+  - type: checkboxes
+    id: documentation-confirmation
+    attributes:
+      label: Documentation included
+      options:
+        - label: I have attached adaptation documentation, workshop documentation, or both.
+          required: true        
+
   - type: markdown
     attributes:
       value: |
