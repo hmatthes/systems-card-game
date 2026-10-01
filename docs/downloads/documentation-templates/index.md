@@ -7,9 +7,12 @@ permalink: /downloads/documentation-templates/
 
 ## 1. Choose what you are documenting
 
+You can submit documentations for an **adaptation**, which is a reusable version of the card set developed for a particular system, livelihood, place, topic or workshop. You can also submit documentation of a **workshop**, which  is a particular event, course or activity in which a card set was used.
+
+
 ### Adaptations of the game
 
-Use the **adaptation template** when you have created or modified a card set for a particular system, livelihood, place or topic.
+Use the **adaptation template** when you have created or modified a card set for a particular system, livelihood, place, topic or workshop.
 
 The template covers:
 
