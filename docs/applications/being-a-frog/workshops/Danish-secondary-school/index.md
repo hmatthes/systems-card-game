@@ -28,3 +28,13 @@ The workshop used the **Being a Frog** card set. Its system cards represent Live
 
 
 [View the adaptation and download the cards]({{ site.baseurl }}/applications/being-a-frog/){: .btn }
+
+## Further Material
+
+A presentation to prepare the workshop is available in Danish: 
+
+[Download the Danish preparation presentation](Klimakortspil_DK_Spidssnudet.fro.og.vandsalamander.pptx){: .btn }
+
+Instructions on how to run a workshop, aslo in Danish, can be found here
+
+[Download the Danish workshop instructions](Klimakortspil_Introduktion.til.del.1.og.2.docx){: .btn }
