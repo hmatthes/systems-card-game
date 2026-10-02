@@ -1,6 +1,6 @@
 ---
 title: Contact
-nav_order: 6
+nav_order: 8
 permalink: /contacts/
 ---
 
