@@ -50,6 +50,4 @@ This adaption was developed to make the kids reflect on system interconnections 
 
 | Workshop | Preview |
 |---|---|
-| **[Workshop with students from a Danish lower secondary school](workshops/Danish-secondary-school/)**<br><br>A participatory workshop aiming to make the kids reflect on system interconnections (environmental and climate related) especially their everyday life and surroundings at their local community. | <a href=<img src="frogandsalamnder.png" alt="A future-oriented workshop on systems, disturbances and actions. Starring, the salamander and the frog." width="260"></a> |
-
 | **[Workshop with students from a Danish lower secondary school](workshops/Danish-secondary-school/)**<br><br>A participatory workshop aiming to make the children reflect on environmental and climate-related system interconnections in their everyday lives and local community. | <a href="workshops/Danish-secondary-school/"><img src="frogandsalamander.png" alt="A future-oriented workshop on systems, disturbances and actions, starring the salamander and the frog." width="260"></a> |
