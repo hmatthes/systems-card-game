@@ -32,8 +32,14 @@ The completed map can be used to examine how an external pressure, unexpected ev
 
 Participants explore possible responses, adaptations, and desired futures. The precise format can be adjusted to the purpose of the workshop.
 
-## Adapting the process
+## Adapting the workshop process
 
-The number of participants, facilitation format, card categories, and later exercises can all be adjusted. The documented adaptations and workshop reports show how the method has been used in different contexts.
+The method is scalable. Ideal size of one group is 5-6 participants and 1-2 facilitators (a chair, and a note-taker). Your workshop can include several groups, as long as there are enough cards, enough working space for groups, and enough facilitators. 
+
+The documented adaptations and workshop reports show how the method has been used in different contexts.
 
 More detailed guidance will be added as the general instructions are developed. We provide [an editable and printable card template](230704_DIY_Blank.pdf), [guidance for adapting and printing the cards](230418_DIY_Instructions.pdf) and [suggestions on workshop design](231024_FacilitationGuide_A4_v2.pdf), based on [*Surprises and Dreams*](../../applications/reindeer-herding/). 
+
+## Learn about the concept
+
+If you would like to have more information on how the Systems Cards Game was first developed and evolved, you can read about that [here](backstory/)
