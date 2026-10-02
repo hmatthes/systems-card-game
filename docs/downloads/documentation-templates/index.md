@@ -5,9 +5,12 @@ parent: Download and adapt
 permalink: /downloads/documentation-templates/
 ---
 
+Thank you for your interest in sharing your experience with the Systems Card Game! Below, you can find instructions on how to share an adaptation of the cards, a workshop, course or other application for inclusion on this website.
+
+
 ## 1. Choose what you are documenting
 
-You can submit documentations for an **adaptation**, which is a reusable version of the card set developed for a particular system, livelihood, place, topic or workshop. You can also submit documentation of a **workshop**, which  is a particular event, course or activity in which a card set was used.
+You can submit documentations for an **adaptation**, which is a reusable version of the card set developed for a particular system, livelihood, place, topic or workshop. You can also submit documentation of a **workshop**, which  is a particular event, course or activity in which a card set was used. Most likely, you have made an adaptation of the card set to use in a specific workshop. If that's the case, please document both.
 
 
 ### Adaptations of the game
@@ -92,7 +95,7 @@ If permission to use a photograph is uncertain, you can instead provide an image
 
 ### Submit through GitHub
 
-On the GitHub page linked below, select **Submit an adaptation or workshop**. You will need to sign in to a GitHub account.
+On the GitHub page linked below, select **Submit an adaptation or workshop** as template for an issue. You will need to sign in to a GitHub account.
 
 [Submit an adaptation or workshop through GitHub](https://github.com/hmatthes/systems-card-game/issues/new/choose){: .btn .btn-primary }
 
