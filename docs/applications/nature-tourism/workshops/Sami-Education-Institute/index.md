@@ -34,7 +34,7 @@ In the workshop students themselves selected the set of key elements, and the ca
 
 The workshop used the **Operational environment of nature tourism** card set. Its system cards represent “Business”, “Environment and climate”, “Economy, markets, society, governance”, “Land use”, and “Tourists”.
 
-[View the adaptation and download the card entires]({{ site.baseurl }}/applications/nature-tourism/){: .btn }
+[View the adaptation and download the card entries]({{ site.baseurl }}/applications/nature-tourism/){: .btn }
 
 ## Workshop reports
 
