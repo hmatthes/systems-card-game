@@ -4,7 +4,7 @@ nav_exclude: true
 permalink: /applications/nature-tourism/adaptation/
 ---
 
-# Operational environment of nature tourism
+# Operational Environment of Nature Tourism
 
 [Back to the adaptation overview]({{ site.baseurl }}/applications/nature-tourism/)
 
@@ -41,4 +41,4 @@ The workshop using the tool is mentioned in the final report of the CLIMINI -pro
 
 
 ## Workshops or courses using the adaptation
-The tool was used during a [workshop with students of nature tourism, at Sámi Education Institute in Inari, northern Finland in May 2022](workshops/Sami-Education-Institute)
+The tool was used during a [workshop with students of nature tourism, at Sámi Education Institute in Inari, northern Finland in May 2022](workshops/Sami-Education-Institute/)

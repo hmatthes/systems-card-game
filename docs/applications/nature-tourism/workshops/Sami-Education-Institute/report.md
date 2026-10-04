@@ -4,25 +4,24 @@ nav_exclude: true
 permalink: /applications/nature-tourism/workshops/Sami-Education-Institute/report/
 ---
 
-# Title of the workshop or course* 
-Workshop with students of nature tourism, at Sámi Education Institute in Inari
+# Workshop with students of nature tourism, at Sámi Education Institute in Inari
 
 [Back to the workshop overview]({{ site.baseurl }}/applications/nature-tourism/workshops/Sami-Education-Institute/)
 
-## Adapted card set used* 
+## Adapted card set used
 The workshop used the **Operational Environment of Nature Tourism** adaptation.
 
-## Date and location* 
+## Date and location
 4 May 2022, ámi Education Institute in Inari, northern Finland
 
-## Organisers* and facilitators 
+## Organisers and facilitators 
 The workshop was facilitated by Minna Turunen, Sirpa Rasmus and Inkeri Markkula (researchers at University of Lapland, Arcic Centre)
 
-## Participants* 
+## Participants 
 The participants were students of Nature Tourism at the Sámi Education Institute in Inari.
 
-## Purpose* 
-The aim of the workshop was to help understanding the diversity of and linkages within the operational environment of nature tourism, and to help to discuss the impacts of climate change on this business
+## Purpose 
+The aim of the workshop was to help understanding the diversity of and linkages within the operational environment of nature tourism, and to help to discuss the impacts of climate change on this business.
 
 ## Workshop format and duration
 - Ten students and three facilitators took part in the workshop. 
@@ -41,7 +40,6 @@ The aim of the workshop was to help understanding the diversity of and linkages 
 ## Available documentation
 The workshop using the tool is mentioned in the final report of the [CLIMINI -project (chapter 4)](https://lauda.ulapland.fi/handle/10024/65523)
 
-## Contact* and references 
-
+## Contact and references 
 **Contact:** Sirpa Rasmus, University of Lapland  
 [sirpa.rasmus@ulapland.fi](mailto:sirpa.rasmus@ulapland.fi)

@@ -4,12 +4,12 @@ nav_exclude: true
 permalink: /applications/nature-tourism/workshops/Sami-Education-Institute/
 ---
 
-# workshop with students of nature tourism, at Sámi Education Institute in Inari
+# Workshop with students of nature tourism, at Sámi Education Institute in Inari
 
 [Back to Operational Environment of Nature Tourism]({{ site.baseurl }}/applications/nature-tourism/)
 
 <p align="center">
-  <img src="{{ site.baseurl }}/applications/nature-tourism/NatureTourismWorkshopInari.JPG"
+  <img src="{{ site.baseurl }}/applications/nature-tourism/workshops/Sami-Education-Institute/NatureTourismWorkshopInari.JPG"
        alt="Working with students of Sámi Educational Institute SOGSAKK on operational environment of nature tourism in Inari, northern Finland, May 2022"
        style="width: 60%; max-width: 620px; height: auto;">
   <br>
