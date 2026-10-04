@@ -187,7 +187,7 @@ some text and the photo
 
 | Workshop | Preview |
 |---|---|
-| **[Workshop at the PolarRES ECR Bootcamp, Søminestationen, Holbæk, Denmark](workshops/PolarRES-bootcamp-2023/)**<br><br>A participatory workshop mapping the operational environment of being a scientist, finding relevant system elements and identifying the most critical points in the system. | <a href="workshops/PolarRES-bootcamp-2023/"><img src="workshops/PolarRES-bootcamp-2023/being-a-scientist.jpeg" alt="System entries created during the mapping workshop at the PolarRES ERC Bootcamp" width="260"></a> |'
+| **[WORKSHOP TITLE](workshops/WORKSHOP-SLUG/)**<br><br>SHORT DESCRIPTION OF THE WORKSHOP, ITS PURPOSE AND PARTICIPANTS. | <a href="workshops/WORKSHOP-SLUG/"><img src="workshops/WORKSHOP-SLUG/WORKSHOP-IMAGE.jpg" alt="DESCRIPTION OF WHAT THE WORKSHOP IMAGE SHOWS" width="260"></a> |
 ```
 
 
