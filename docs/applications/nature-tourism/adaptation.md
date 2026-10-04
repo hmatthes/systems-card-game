@@ -4,15 +4,14 @@ nav_exclude: true
 permalink: /applications/nature-tourism/adaptation/
 ---
 
-# Title of the adaptation* 
-Operational environment of nature tourism
+# Operational environment of nature tourism
 
 [Back to the adaptation overview]({{ site.baseurl }}/applications/nature-tourism/)
 
-## System or topic* 
+## System or topic
 Nature tourism, especially in northern Finland
 
-## Purpose* 
+## Purpose
 The tool was made to support education and to provide means to explore a complex system with students. The aim was to help to understand the diversity of and linkages within the operational environment of nature tourism, and to help to discuss the impacts of climate change on this business. 
 
 ## Card categories
@@ -30,12 +29,13 @@ List of elements in the operational environment of nature tourism, as an excel s
 ## Guidance for reuse
 
 
-## Development and contributors* 
+## Development and contributors
 This was part of the development and piloting of the Surprises and Dreams -cards (for the use with reindeer husbandry actors); researchers involved at this early stage of the development were Sirpa Rasmus and Minna Turunen (University of Lapland), Simo Sarkki (University of Oulu) and Otto Habeck (University of Hamburg).
 
 
-## Contact* and references
-Sirpa Rasmus (sirpa.rasmus@ulapland.fi)
+## Contact and references
+**Contact:** Sirpa Rasmus, University of Lapland  
+[Sirpa.rasmus@ulapland.fi](mailto:sirpa.rasmus@ulapland.fi)
 
 The workshop using the tool is mentioned in the final report of the CLIMINI -project (chapter 4): https://lauda.ulapland.fi/handle/10024/65523
 

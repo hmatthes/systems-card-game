@@ -5,7 +5,7 @@ parent: Adaptations and workshops
 permalink: /applications/nature-tourism/
 ---
 
-# Operational environment for being a scientist
+# Operational Environment of Nature Tourism
 
 This adaptation of the Systems Card Game was developed to support education and to provide means to explore a complex system with students. The aim was to help to understand the diversity of and linkages within the operational environment of nature tourism, and to help to discuss the impacts of climate change on this business. 
 
@@ -29,7 +29,7 @@ The prepared card set helps participants identify, arrange, connect, and discuss
 |---|---|
 | English | [Download list](materials/Operational_environment_nature_tourism_list_of_elements_FINNISH.xlsx) |
 
-(workshops/Sami-Education-)
+
 ## Workshops using this adaptation
 
 | Workshop | Preview |
