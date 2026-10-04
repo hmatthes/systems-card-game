@@ -157,26 +157,11 @@ Important:
 
 A typical adaptation landing page contains:
 
-1. Page title
-2. Short introduction
-3. Adaptation image
-4. Brief “About this adaptation” section
-5. Button linking to the full adaptation documentation
-6. Table of downloadable materials
-7. Optional video or other media
-8. Visual teasers for workshops using the adaptation
-
-### Linking to the full documentation
-
-Use the website permalink rather than linking to `adaptation.md` directly:
-
 ```markdown
-[Read the full adaptation documentation]({{ site.baseurl }}/applications/ADAPTATION-SLUG/adaptation/){: .btn .btn-primary }
-```
+# Title
 
-### Displaying an adaptation image
+some text and the photo
 
-```html
 <p align="center">
   <img src="adaptation-image.jpg"
        alt="A meaningful description of the image"
@@ -184,26 +169,27 @@ Use the website permalink rather than linking to `adaptation.md` directly:
   <br>
   <small>Image caption and credit.</small>
 </p>
-```
 
-The `alt` text should describe the image for people using screen readers. It is not the same as the visible caption or image credit.
 
-### Linking downloadable material
+## About this adaptation
 
-When the material is in the adaptation’s `materials` folder, use:
+[Read the full adaptation documentation]({{ site.baseurl }}/applications/ADAPTATION-SLUG/adaptation/){: .btn .btn-primary }
 
-```markdown
-[Download the English card set](materials/english-card-set.pdf)
-```
 
-A table is useful when the same material is available in several languages:
+## Download the card set
 
-```markdown
 | Language | Printable card set |
 |---|---|
-| English | [Download](materials/english-card-set.pdf) |
-| Kalaallisut | [Download](materials/kalaallisut-card-set.pdf) |
+| English | [Download PDF](materials/CardSet.pdf) |
+
+
+## Workshops using this adaptation
+
+| Workshop | Preview |
+|---|---|
+| **[Workshop at the PolarRES ECR Bootcamp, Søminestationen, Holbæk, Denmark](workshops/PolarRES-bootcamp-2023/)**<br><br>A participatory workshop mapping the operational environment of being a scientist, finding relevant system elements and identifying the most critical points in the system. | <a href="workshops/PolarRES-bootcamp-2023/"><img src="workshops/PolarRES-bootcamp-2023/being-a-scientist.jpeg" alt="System entries created during the mapping workshop at the PolarRES ERC Bootcamp" width="260"></a> |'
 ```
+
 
 ## 6. Create the full adaptation documentation
 
