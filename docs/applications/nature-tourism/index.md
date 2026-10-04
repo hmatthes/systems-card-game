@@ -29,7 +29,7 @@ The prepared card set helps participants identify, arrange, connect, and discuss
 |---|---|
 | English | [Download list](materials/Operational_environment_nature_tourism_list_of_elements_FINNISH.xlsx) |
 
-
+(workshops/Sami-Education-)
 ## Workshops using this adaptation
 
 | Workshop | Preview |
