@@ -7,45 +7,31 @@ permalink: /applications/nature-tourism/
 
 # Operational environment for being a scientist
 
-This adaptation of the Systems Card Game was developed to explore being a scientist as a career path.
-
-The card set represents elements of the operational environment in which scientists work. It can be used to create a shared system map and explore how relationships within that system are affected by external conditions like society, economy and culture, by institutional norms and governance, by required skills and practical ways of working as well as by limited resources and infrastructure.
+This adaptation of the Systems Card Game was developed to support education and to provide means to explore a complex system with students. The aim was to help to understand the diversity of and linkages within the operational environment of nature tourism, and to help to discuss the impacts of climate change on this business. 
 
 <p align="center">
-  <img src="{{ site.baseurl }}/applications/being-a-scientist/ScientistCards-1.jpg"
-       alt="Examples from the Being a Scientist Operational Environment card set"
+  <img src="{{ site.baseurl }}/applications/nature-tourism/NatureTourismCards.jpg"
+       alt="Operational environment of nature tourism, built together with students of the Sámi Educational Institute SOGSAKK, in Inari, northern Finland, May 2022"
        style="width: 60%; max-width: 620px; height: auto;">
   <br>
-  <small>Examples from the Being a Scientist Operational Environment card set.</small>
+  <small>Operational environment of nature tourism, built together with students of the Sámi Educational Institute SOGSAKK, in Inari, northern Finland, May 2022.</small>
 </p>
 
 ## About this adaptation
 
-The prepared card set helps participants identify, arrange, connect, and discuss important elements of choosing science as a career path and making a life as a scientist, and identify the parts of the system they viewed as most critical for success.
+The prepared card set helps participants identify, arrange, connect, and discuss important elements of nature tourism, using elements from five categories: “Business”, “Environment and climate”, “Economy, markets, society, governance”, “Land use”, “Tourists”.
 
-It is available in English and includes cards representing the operational environment, and blank cards for additional elements identified by participants.
-
-The card set was expanded by requests for feedback on multiple occasions, for example at the Potsdamer Tag der Wissenschaft 2024 at the booths of Alfred-Wegener-Insititute.
-
-<p align="center">
-  <img src="{{ site.baseurl }}/applications/being-a-scientist/PotsdamTagdWiss4May2024.jpg"
-       alt="Discussing card entries for the Being a Scientist Operational Environment card set at Potsdamer Tag der Wissenschaft 2024."
-       style="width: 100%; max-width: 620px; height: auto;">
-  <br>
-  <small>Discussing card entries for the Being a Scientist Operational Environment card set at Potsdamer Tag der Wissenschaft 2024. Photo by Josephine Lenz.</small>
-</p>
-
-[Read the full adaptation documentation]({{ site.baseurl }}/applications/being-a-scientist/adaptation/){: .btn .btn-primary }
+[Read the full adaptation documentation]({{ site.baseurl }}/applications/nature-tourism/adaptation/){: .btn .btn-primary }
 
 ## Download the card set
 
-| Language | Printable card set |
+| Language | List of card elements |
 |---|---|
-| English | [Download PDF](materials/BeingAScientist.pdf) |
+| English | [Download list](materials/Operational_environment_nature_tourism_list_of_elements_FINNISH.xlsx) |
 
 
 ## Workshops using this adaptation
 
 | Workshop | Preview |
 |---|---|
-| **[Workshop at the PolarRES ECR Bootcamp, Søminestationen, Holbæk, Denmark](workshops/PolarRES-bootcamp-2023/)**<br><br>A participatory workshop mapping the operational environment of being a scientist, finding relevant system elements and identifying the most critical points in the system. | <a href="workshops/PolarRES-bootcamp-2023/"><img src="workshops/PolarRES-bootcamp-2023/being-a-scientist.jpeg" alt="System entries created during the mapping workshop at the PolarRES ERC Bootcamp" width="260"></a> |
+| **[Workshop with students of nature tourism, at Sámi Education Institute in Inari, northern Finland (4.5.2022). ](workshops/Sami-Education-Institute/)**<br><br>An educational workshop mapping the operational environment of nature tourism and the impacts of climate change. | <a href="workshops/Sami-Education-Institute/"><img src="workshops/Sami-Education-Institute/NatureTourismWorkshopInari.jpg" alt="Students working on creating a map of the operational environment of nature tourism" width="260"></a> |

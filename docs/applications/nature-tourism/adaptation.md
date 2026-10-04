@@ -13,7 +13,7 @@ Operational environment of nature tourism
 Nature tourism, especially in northern Finland
 
 ## Purpose* 
-The tool was made to support education and to provide means to . The aim was to help to understand the diversity of and linkages within the operational environment of nature tourism, and to help to discuss the impacts of climate change on this business. 
+The tool was made to support education and to provide means to explore a complex system with students. The aim was to help to understand the diversity of and linkages within the operational environment of nature tourism, and to help to discuss the impacts of climate change on this business. 
 
 ## Card categories
 We have five categories: “Business”, “Environment and climate”, “Economy, markets, society, governance”, “Land use”, “Tourists”. We do not have any joker cards, although pressures like climate change can be discussed in workshops.
