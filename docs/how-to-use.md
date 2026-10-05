@@ -6,7 +6,9 @@ permalink: /how-to-use/
 
 # How to use the Systems Card Game
 
-The Systems Card Game is designed to be adapted to the system, participants, and purpose of a particular workshop or course.
+The Systems Card Game is designed to be adapted to the system, participants, and purpose of a particular workshop or course. Below, you can find basic instructions on how to adapt the Systems Card Game to your own ideas an purposes, as well as links to material and further guidance.
+
+**Before you start making your own adaptation, check out existing ones you might be able to use [here](applications/)**
 
 ## Basic process
 
@@ -34,11 +36,13 @@ Participants explore possible responses, adaptations, and desired futures. The p
 
 ## Adapting the workshop process
 
-The method is scalable. Ideal size of one group is 5-6 participants and 1-2 facilitators (a chair, and a note-taker). Your workshop can include several groups, as long as there are enough cards, enough working space for groups, and enough facilitators. 
+Most likely, you are planning to use the adaptation of the Systems Card Game you created in a workshop or course. The method is scalable. Ideal size of one group is 5-6 participants and 1-2 facilitators (a chair, and a note-taker). Your workshop can include several groups, as long as there are enough cards, enough working space for groups, and enough facilitators. 
 
-The documented adaptations and workshop reports show how the method has been used in different contexts.
+## Material and documented adaptations and workshops
 
-More detailed guidance will be added as the general instructions are developed. We provide [an editable and printable card template](230704_DIY_Blank.pdf), [guidance for adapting and printing the cards](230418_DIY_Instructions.pdf) and [suggestions on workshop design](231024_FacilitationGuide_A4_v2.pdf), based on [*Surprises and Dreams*](../../applications/reindeer-herding/). 
+The documented [adaptations](applications) and workshop reports show how the method has been used in different contexts. Documented adaptations come with card sets that can be used or adapted to your own purpose.
+
+ We provide [an editable and printable card template](downloads/card-template/230704_DIY_Blank.pdf), [guidance for adapting and printing the cards](downloads/card-template/230418_DIY_Instructions.pdf) and [suggestions on workshop design](downloads/card-template/231024_FacilitationGuide_A4_v2.pdf), based on [*Surprises and Dreams*](applications/reindeer-herding/). 
 
 ## Learn about the concept
 
