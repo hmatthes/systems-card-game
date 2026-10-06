@@ -44,6 +44,4 @@ We provide separate documentation templates for:
 
 If you developed a new card set and used it in a workshop, you can complete both templates. If you used an existing card set without adapting it, you only need the workshop template.
 
-The documentation-templates section contains editable Word files, Markdown versions and instructions for submitting your material.
-
-[Open the documentation templates]({{ site.baseurl }}/downloads/documentation-templates/){: .btn .btn-primary }
+The [documentation-templates section]({{ site.baseurl }}/downloads/documentation-templates/) contains editable Word files, Markdown versions and instructions for submitting your material.
