@@ -9,13 +9,17 @@ permalink: /downloads/card-template/
 
 This folder contains the generic materials for creating an adaptable and printable set of cards.
 
+## Before creating a new set
+
+It may also be useful to look at the [existing adaptations and workshop examples]({{ site.baseurl }}/applications/). These demonstrate how the general structure has been adjusted for particular systems and purposes.
+
 ## Files
 
 The following materials are available:
 
 - [an editable and printable card template](230704_DIY_Blank.pdf)
 - [guidance for adapting and printing the cards](230418_DIY_Instructions.pdf)
-- [suggestions on workshop design](231024_FacilitationGuide_A4_v2.pdf), based on [*Surprises and Dreams*](../../applications/reindeer-herding/)
+- [suggestions on workshop design](231024_FacilitationGuide_A4_v2.pdf), based on [*Surprises and Dreams*]({{ site.baseurl }}/applications/reindeer-herding/)
 
 This material can also be found on [zenodo](https://doi.org/10.5281/zenodo.8334153) and should be cited as Wang, I., Rasmus, S., Sarkki, S., Habeck, O., Burgess, P., Pekkarinen, A.-J., & Eronen, J. (2023). Playing With Dreams - Workshop Playing Cards. Zenodo. https://doi.org/10.5281/zenodo.10038003
 
@@ -29,6 +33,4 @@ This material can also be found on [zenodo](https://doi.org/10.5281/zenodo.83341
 6. Print and test the cards before the workshop.
 7. Include blank cards so participants can add missing elements.
 
-## Before creating a new set
-
-It may also be useful to look at the [existing adaptations and workshop examples](../../applications/). These demonstrate how the general structure has been adjusted for particular systems and purposes.
+More detailed instructions on how to adapt the Systems Card Game by creating a new set of cards can be found [here]({{ site.baseurl }}/how-to-use/#adapt-the-cards)
