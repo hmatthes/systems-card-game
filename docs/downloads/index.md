@@ -1,22 +1,49 @@
 ---
-title: Download and adapt
+title: Downloads and templates
 nav_order: 4
 has_children: true
 permalink: /downloads/
 ---
 
-# Download and adapt the game
+# Downloads and templates
 
-The materials in this section can be used to create a card set for a new system or workshop.
+This section contains materials for creating your own card set and documenting how the Systems Card Game has been adapted and used.
 
-## Generic card template
+## Create a new card set
 
-The generic card template provides an editable and printable starting point for making a new set of cards. We also provide a document for guidance for adapting and printing the cards as well as suggestions on workshop design. [Open the card-template folder](card-template/)
+The card-template section contains:
 
-### Before creating a new set
+- a blank, printable card template;
+- practical instructions for printing, cutting and assembling the cards.
 
-It may also be useful to look at the [existing adaptations and workshop examples](../applications/). These demonstrate how the general structure has been adjusted for particular systems and purposes.
+Before making the cards, read the guidance on selecting system elements, developing categories and preparing the deck.
 
-## Reporting on an adapted set of cards of workshop/course 
+[Read how to adapt the cards]({{ site.baseurl }}/how-to-use/#adapt-the-cards){: .btn .btn-primary }
 
-If you would like to share a set of cards you made or report on a workshop or course where the game was used, please find instructions on how to do so [here](documentation-templates/).
+[Open the card-template downloads]({{ site.baseurl }}/downloads/card-template/){: .btn }
+
+You may not need to create a new deck from scratch. Our documented adaptations include card sets developed for particular systems, livelihoods and educational purposes.
+
+Each adaptation page explains:
+
+- what the cards were designed to explore;
+- how the general tool was adapted;
+- which languages and materials are available;
+- how the cards have been used in workshops or courses.
+
+Downloadable card sets and related guidance are provided on the relevant adaptation page.
+
+[Browse adaptations and workshops]({{ site.baseurl }}/applications/){: .btn .btn-primary }
+
+## Document and share your work
+
+We provide separate documentation templates for:
+
+- **an adapted card set**, describing the system, purpose, categories, materials and development process;
+- **a workshop or course**, describing how a card set was used, who participated, what happened and what was learned.
+
+If you developed a new card set and used it in a workshop, you can complete both templates. If you used an existing card set without adapting it, you only need the workshop template.
+
+The documentation-templates section contains editable Word files, Markdown versions and instructions for submitting your material.
+
+[Open the documentation templates]({{ site.baseurl }}/downloads/documentation-templates/){: .btn .btn-primary }
