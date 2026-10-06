@@ -19,7 +19,7 @@ You do not have to follow every step described on this page. Start with the purp
 
 
 
-## Adapt the cards {#adapt-the-cards}
+# Adapt the cards {#adapt-the-cards}
 
 You can use an existing card set or adapt the Systems Card Game to a particular system, livelihood, community or topic.
 
@@ -31,7 +31,7 @@ Adapting the cards means deciding:
 
 The card set does not need to provide a complete or final description of the system. It provides a starting point for discussion, mapping and learning.
 
-### Systems and system maps {#systems-and-mapping}
+## Systems and system maps {#systems-and-mapping}
 
 A system consists of elements that interact with one another. These may include people, organisations, resources, activities, environmental conditions, rules, infrastructure and many other factors.
 
@@ -46,7 +46,7 @@ Before developing a card set, it therefore helps to clarify:
 - Where will you draw the boundaries of the system?
 - Whose knowledge and perspective should inform the cards?
 
-### Decide when to identify the system elements {#identify-system-elements}
+## Decide when to identify the system elements {#identify-system-elements}
 
 There are three ways to develop the content of the card set.
 
@@ -58,7 +58,7 @@ There are three ways to develop the content of the card set.
 
 The choice should follow the purpose of the workshop. See [Plan a workshop](#plan-a-workshop) for guidance on selecting an appropriate workshop format.
 
-### Identify potential system elements {#select-system-elements}
+## Identify potential system elements {#select-system-elements}
 
 If you prepare the cards in advance, begin by gathering information about the system. Depending on your purpose, this might include:
 
@@ -74,7 +74,7 @@ Use short, recognisable terms on the cards. Participants should be able to inter
 
 Do not try to include everything. A very large deck can make it difficult for participants to recognise priorities and relationships. Focus on elements that are relevant to the purpose of the activity, and provide blank cards so participants can add what is missing.
 
-### Develop the card categories {#card-categories}
+## Develop the card categories {#card-categories}
 
 Categories help people approach a complex system from several perspectives. They can also help the developers of a card set notice gaps or an excessive focus on one part of the system.
 
@@ -95,7 +95,7 @@ These categories provide a starting point rather than a fixed classification. Fo
 
 The categories do not have to be mutually exclusive. The same system element may be relevant in more than one category. In that case, you can place it where it is most useful, discuss its overlap with participants, or include versions of the card in more than one category.
 
-### Use colours and icons together {#colours-and-icons}
+## Use colours and icons together {#colours-and-icons}
 
 Categories can be distinguished through colour, icons or both.
 
@@ -109,7 +109,7 @@ Using both an icon and a colour makes the categories easier to recognise:
 
 Do not rely on colour alone to communicate a card’s category. Keep the meaning of each icon consistent throughout the deck and explain the categories at the beginning of the workshop.
 
-### Review the proposed set {#review-card-set}
+## Review the proposed set {#review-card-set}
 
 Before producing the final cards, review the proposed set with people who understand the system or will help facilitate the workshop.
 
@@ -126,7 +126,7 @@ Check whether:
 
 If possible, test the cards in a small pilot session. Participants’ questions often reveal unclear wording, missing elements or categories that need adjustment.
 
-### Make and print the cards {#make-the-cards}
+## Make and print the cards {#make-the-cards}
 
 Once you have selected the system elements, categories, wording, colours and icons, you can produce the physical card set.
 
@@ -140,7 +140,7 @@ Before printing a complete set, print one test sheet. Check the page size, scali
 
 Keep some blank cards available during the workshop so participants can add missing elements.
 
-### The card set can continue to develop
+## The card set can continue to develop
 
 An adapted card set does not have to remain unchanged. Workshop participants may identify missing elements, use different terminology or question the categories chosen by the developers.
 
@@ -148,7 +148,7 @@ Record these observations after each workshop. They can help you revise the deck
 
 Once your cards are ready, continue to [Plan a workshop](#plan-a-workshop).
 
-## Plan a workshop {#plan-a-workshop}
+# Plan a workshop {#plan-a-workshop}
 
 There is no single correct format for a Systems Card Game workshop. The activities you choose should depend on **why you are bringing people together** and what participants should gain from the process.
 
@@ -163,23 +163,23 @@ A workshop does not always have to produce a complete system map. For an introdu
 
 Building a map becomes particularly useful when participants want to explore relationships, identify critical connections or consider how pressures and unexpected developments might affect the system.
 
-### Choose the purpose of the workshop {#workshop-purpose}
+## Choose the purpose of the workshop {#workshop-purpose}
 
 A workshop can include one or more of the following stages.
 
-#### 1. Explore the elements of the system
+### 1. Explore the elements of the system
 
 Participants select cards that they consider important and discuss what those elements mean. Blank cards can be used to add missing elements.
 
 This can be a useful activity on its own, particularly when the aim is learning, starting a conversation or comparing different perspectives.
 
-#### 2. Build a shared system map
+### 2. Build a shared system map
 
 Participants arrange the cards and draw connections between them. They can discuss which elements are central, which relationships are particularly important and where participants understand the system differently.
 
 A system map makes relationships visible and provides a shared basis for deeper discussion.
 
-#### 3. Explore pressures, surprises and preparedness
+### 3. Explore pressures, surprises and preparedness
 
 Participants introduce an external pressure, disruptive development or “surprise” and consider how it might affect the map.
 
@@ -193,7 +193,7 @@ Questions might include:
 
 This stage is particularly useful when the workshop aims to identify vulnerabilities, critical connections or possible courses of action.
 
-#### 4. Explore desired futures
+### 4. Explore desired futures
 
 Instead of beginning with threats, participants can begin with their hopes, aspirations or “dreams” for the system.
 
@@ -208,7 +208,7 @@ They can then ask:
 
 This is the basis of the **Surprises and Dreams** approach. It connects systems mapping with positive, future-oriented discussion.
 
-### Group size and scaling {#group-size}
+## Group size and scaling {#group-size}
 
 The method is scalable. An ideal discussion group consists of approximately **five or six participants**, supported by **one or two facilitators**.
 
@@ -224,7 +224,7 @@ A workshop can include several groups working at the same time, provided that th
 
 If several groups take part, their maps do not have to be identical. Comparing the maps can reveal different experiences, priorities and ways of understanding the same system.
 
-### Prepare the workshop {#prepare-the-workshop}
+## Prepare the workshop {#prepare-the-workshop}
 
 Before the workshop, decide:
 
@@ -240,7 +240,7 @@ Prepare one card set for each group, including blank cards for missing elements.
 
 If the workshop forms part of research, participants should receive clear information about consent, documentation, anonymity, data storage and how the results will be used. Photographs showing identifiable participants should only be taken and published with appropriate permission.
 
-### Close and follow up {#workshop-follow-up}
+## Close and follow up {#workshop-follow-up}
 
 At the end of the workshop:
 
@@ -252,7 +252,7 @@ At the end of the workshop:
 
 Soon after the workshop, facilitators should compile their notes and photographs while the discussion is still fresh. Participants should receive any information or results promised during the workshop.
 
-### Detailed facilitation guidance
+## Detailed facilitation guidance
 
 The **Surprises and Dreams Facilitation Guide** provides a fuller workshop process covering:
 
