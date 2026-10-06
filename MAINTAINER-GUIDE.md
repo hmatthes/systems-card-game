@@ -157,10 +157,19 @@ Important:
 
 A typical adaptation landing page contains:
 
+1. Page title
+2. Short introduction
+3. Adaptation image
+4. Brief “About this adaptation” section
+5. Button linking to the full adaptation documentation
+6. Table of downloadable materials
+7. Optional video or other media
+8. Visual teasers for workshops using the adaptation
+
+Copy and fill the template below:
+
 ```markdown
 # Title
-
-some text and the photo
 
 <p align="center">
   <img src="adaptation-image.jpg"
@@ -208,15 +217,15 @@ permalink: /applications/ADAPTATION-SLUG/adaptation/
 The documentation should normally contain:
 
 ```markdown
-# Title of the adaptation* 
+# Title of the adaptation
 [*a title, if you have one, or a short name for the system*]
 
 [Back to the adaptation overview]({{ site.baseurl }}/applications/ADAPTATION-SLUG/)
 
-## System or topic* 
+## System or topic
 [*what system or topic was the tool adapted to?*]
 
-## Purpose* 
+## Purpose
 [*for what purpose did you make the tool? what discussion or decisions was the tool meant to support?*]
 
 ## Card categories
@@ -234,10 +243,10 @@ The documentation should normally contain:
 ## Guidance for reuse
 [*If there is guidance for using the adapted cards, you can add it here. If you have a sperate document, please provide it with your documentation and simply put the name here. We will link it here. If you used general guidance, please indicate that here.*]
 
-## Development and contributors* 
+## Development and contributors 
 [*who developed the adaptation?*]
 
-## Contact* and references
+## Contact and references
 [*Please give the name and email of a contact person for your adaptation. if there are publications associated with your adaptation, you can provide them here.*]
 
 ## Workshops or courses using the adaptation
@@ -325,17 +334,25 @@ The workshop landing page normally contains:
 4. Short summary
 5. Workshop information table
 6. Button linking to the full report
-7. Links to external reports or downloadable outputs, if available
+7. Card set and link to card set
+8. Links to external reports or downloadable outputs, if available
 
-### Back link to the adaptation
+Copy and fill the template below
 
 ```markdown
+# Title
+
 [Back to the adaptation title]({{ site.baseurl }}/applications/ADAPTATION-SLUG/)
-```
 
-### Workshop information table
+<p align="center">
+  <img src="adaptation-image.jpg"
+       alt="A meaningful description of the image"
+       style="width: 100%; max-width: 620px; height: auto;">
+  <br>
+  <small>Image caption and credit.</small>
+</p>
 
-```markdown
+
 | Workshop information | |
 |---|---|
 | **Date** | DATE |
@@ -345,19 +362,18 @@ The workshop landing page normally contains:
 | **Participants** | PARTICIPANT SUMMARY |
 | **Format** | WORKSHOP FORMAT |
 | **Language** | LANGUAGE |
-```
 
-Rows without useful information can be omitted until the information becomes available.
 
-### Link to the full report
-
-Use the report’s final permalink:
-
-```markdown
 [Read the full workshop documentation]({{ site.baseurl }}/applications/ADAPTATION-SLUG/workshops/WORKSHOP-SLUG/report/){: .btn .btn-primary }
+
+## Card Set
+
+[View the adaptation and download the cards]({{ site.baseurl }}/applications/ADAPTATION-SLUG/){: .btn }
+
+## Workshop reports
 ```
 
-Do not link to `report.md` when the report has a separate permalink ending in `/report/`.
+
 
 ## 10. Create the full workshop report
 
@@ -376,24 +392,24 @@ Do not add `published: false`.
 A normal report contains:
 
 ```markdown
-# Title of the workshop or course* 
+# Title of the workshop or course
 [*a title, if you have one, or a short name for the workshop/course*]
 
 [Back to the workshop overview]({{ site.baseurl }}/applications/ADAPTATION-SLUG/workshops/WORKSHOP-SLUG/)
 
-## Adapted card set used* 
+## Adapted card set used
 [*which card set was used for this activity?*]
 
-## Date and location* 
+## Date and location
 [*where and when did the workshop/course take place*]
 
-## Organisers* and facilitators 
+## Organisers and facilitators 
 [*where and when did the workshop/course take place*]
 
-## Participants* 
+## Participants 
 [*who were the participants? How did they know about the workshop/course? Generalize information as needed, please do not provide personal information*] 
 
-## Purpose* 
+## Purpose
 [*what purpose was the workshop/course meant to for? what discussion or decisions was the activity meant to support?*]
 
 ## Workshop format and duration
@@ -411,7 +427,7 @@ A normal report contains:
 ## Available documentation
 [*If you made a documentation of the workshop/course, you can provide it and we will link it here. Please provide the file name.*]
 
-## Contact* and references 
+## Contact and references 
 [*Please give the name and email of a contact person for your adaptation. if there are publications associated with your adaptation, you can provide them here.*]
 ```
 
