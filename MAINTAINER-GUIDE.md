@@ -43,7 +43,7 @@ A workshop that uses an existing card-set adaptation should be placed under that
 ## Add an adaptation
 
 <details>
-<summary><strong><span style="font-size: 2rem; color: #000;">1. Collect the necessary information</span><strong></summary>
+<summary><strong>1. Collect the necessary information</strong></summary>
 
 
 - Title
@@ -73,8 +73,8 @@ Comments written in this form are visible in the Markdown source but not on the 
 
 </details>
 
-
-### 2. Make a new folder for the adaptation
+<details>
+<summary><strong>2. Make a new folder for the adaptation</strong></summary>
 
 Use a short, descriptive folder name containing:
 
@@ -101,8 +101,10 @@ WORKSHOP-SLUG
 
 Replace these everywhere with the actual folder names.
 
+</details>
 
-### 3. Create an adaptation folder
+<details>
+<summary><strong>3. Create an adaptation folder</strong></summary>
 
 In github.dev:
 
@@ -118,7 +120,10 @@ In github.dev:
 
 Git does not retain completely empty folders. If `materials` or `workshops` disappears, create a file inside it or wait until material is ready to upload.
 
-### 4. Create the adaptation landing page
+</details>
+
+<details>
+<summary><strong>4. Create the adaptation landing page</strong></summary>
 
 The adaptation’s `index.md` is its short, visual landing page.
 
@@ -185,8 +190,10 @@ Copy and fill the template below:
 | **[WORKSHOP TITLE](workshops/WORKSHOP-SLUG/)**<br><br>SHORT DESCRIPTION OF THE WORKSHOP, ITS PURPOSE AND PARTICIPANTS. | <a href="workshops/WORKSHOP-SLUG/"><img src="workshops/WORKSHOP-SLUG/WORKSHOP-IMAGE.jpg" alt="DESCRIPTION OF WHAT THE WORKSHOP IMAGE SHOWS" width="260"></a> |
 ```
 
+</details>
 
-### 5. Create the full adaptation documentation
+<details>
+<summary><strong>5. Create the full adaptation documentation</strong></summary>
 
 Begin `adaptation.md` with:
 
@@ -241,7 +248,10 @@ The documentation should normally contain:
 
 Remove sections that genuinely do not apply. Use comments for information that is expected but not yet available.
 
-### 6. If you want the adaptation to have a teaser
+</details>
+
+<details>
+<summary><strong>6. If you want the adaptation to have a teaser</strong></summary>
 
 All adaptations with:
 
@@ -269,7 +279,8 @@ If the new adaptation should be featured there, copy an existing teaser and chan
 
 ## Add a workshop
 
-### 1. Collect the follwoing information
+<details>
+<summary><strong>1. Collect the follwoing information</strong></summary>
 
 - Workshop title
 - Adapted card set used
@@ -287,9 +298,10 @@ If the new adaptation should be featured there, copy an existing teaser and chan
 - Image caption and credit
 - Permission to publish workshop images and documentation
 
+</details>
 
-
- ### 2. Create a workshop folder
+<details>
+<summary><strong>2. Create a workshop folder</strong></summary>
 
 Inside the adaptation folder the workshop belongs to, go to:
 
@@ -322,9 +334,10 @@ disruption-cards.jpg
 
 Use descriptive lowercase filenames with hyphens. Avoid spaces where possible.
 
+</details>
 
-
-### 3. Create the workshop landing page
+<details>
+<summary><strong>3. Create the workshop landing page</strong></summary>
 
 Begin the workshop `index.md` with:
 
@@ -383,9 +396,10 @@ Copy and fill the template below
 ## Workshop reports
 ```
 
+</details>
 
-
-### 4. Create the full workshop report
+<details>
+<summary><strong>4. Create the full workshop report</strong></summary>
 
 Begin `report.md` with:
 
@@ -447,7 +461,10 @@ A normal report contains:
 [Read the card-set documentation]({{ site.baseurl }}/applications/ADAPTATION-SLUG/adaptation/)
 ```
 
-### 5. Add the workshop teaser to the adaptation page
+</details>
+
+<details>
+<summary><strong>5. Add the workshop teaser to the adaptation page</strong></summary>
 
 Workshops do not appear automatically on the adaptation landing page.
 
