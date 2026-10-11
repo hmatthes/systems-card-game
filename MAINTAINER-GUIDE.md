@@ -76,35 +76,13 @@ Comments written in this form are visible in the Markdown source but not on the 
 <details>
 <summary><strong>2. Make a new folder for the adaptation</strong></summary>
 
-Use a short, descriptive folder name containing:
-
-- lowercase letters;
-- hyphens instead of spaces;
-- no special characters.
-
-for a new folder in applications/ For example:
-
-```text
-reindeer-herding
-ilulissat-livelihoods
-young-people-reindeer-husbandry
-```
-
-The folder name does not have to be identical to the title displayed on the website.
+Use a short, descriptive folder name containing, the folder name does not have to be identical to the title displayed on the website.
 
 In this guide, the following placeholders are used:
 
 ```text
 ADAPTATION-SLUG
-WORKSHOP-SLUG
 ```
-
-Replace these everywhere with the actual folder names.
-
-</details>
-
-<details>
-<summary><strong>3. Create an adaptation folder</strong></summary>
 
 In github.dev:
 
@@ -123,7 +101,7 @@ Git does not retain completely empty folders. If `materials` or `workshops` disa
 </details>
 
 <details>
-<summary><strong>4. Create the adaptation landing page</strong></summary>
+<summary><strong>3. Create the adaptation landing page</strong></summary>
 
 The adaptation’s `index.md` is its short, visual landing page.
 
@@ -193,7 +171,7 @@ Copy and fill the template below:
 </details>
 
 <details>
-<summary><strong>5. Create the full adaptation documentation</strong></summary>
+<summary><strong>4. Create the full adaptation documentation</strong></summary>
 
 Begin `adaptation.md` with:
 
@@ -251,7 +229,7 @@ Remove sections that genuinely do not apply. Use comments for information that i
 </details>
 
 <details>
-<summary><strong>6. If you want the adaptation to have a teaser</strong></summary>
+<summary><strong>5. If you want the adaptation to have a teaser</strong></summary>
 
 All adaptations with:
 
