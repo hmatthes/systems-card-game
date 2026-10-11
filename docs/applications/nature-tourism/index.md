@@ -1,5 +1,5 @@
 ---
-title: Operational environment of nature tourism
+title: Operational Environment of Nature Tourism
 nav_order: 5
 parent: Adaptations and workshops
 permalink: /applications/nature-tourism/
