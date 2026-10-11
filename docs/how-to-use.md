@@ -33,7 +33,7 @@ The card set does not need to provide a complete or final description of the sys
 
 <details id="identify-system-elements" markdown="1">
 <summary>
-  <span style="font-size: 1.25rem;">Decide when to identify the system elements</span>
+  <span style="font-size: 2rem; color: #000;">Decide when to identify the system elements</span>
 </summary>
 
 There are three ways to develop the content of the card set.
