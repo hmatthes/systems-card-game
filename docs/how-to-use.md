@@ -48,7 +48,7 @@ The choice should follow the purpose of the workshop. See [Plan a workshop](#pla
 
 <details id="select-system-elements" markdown="1">
 <summary>
-  <span style="font-size: 1.5rem; color: #000;">Identify potential system elements</span>
+  <span style="font-size: 1.5rem; color: #222;">Identify potential system elements</span>
 </summary>
 
 If you prepare the cards in advance, begin by gathering information about the system. Depending on your purpose, this might include:
@@ -69,7 +69,7 @@ Do not try to include everything. A very large deck can make it difficult for pa
 
 <details id="card-categories" markdown="1">
 <summary>
-  <span style="font-size: 1.5rem; color: #000;">Develop the card categories</span>
+  <span style="font-size: 1.5rem; color: #222;">Develop the card categories</span>
 </summary>
 
 Categories help people approach a complex system from several perspectives. They can also help the developers of a card set notice gaps or an excessive focus on one part of the system.
@@ -97,7 +97,7 @@ Categories can be distinguished through colour, icons or both. The icons in the 
 
 <details id="review-card-set" markdown="1">
 <summary>
-  <span style="font-size: 1.5rem; color: #000;">Review the proposed set</span>
+  <span style="font-size: 1.5rem; color: #222;">Review the proposed set</span>
 </summary>
 
 Before producing the final cards, review the proposed set with people who understand the system or will help facilitate the workshop.
@@ -119,7 +119,7 @@ If possible, test the cards in a small pilot session. Participants’ questions 
 
 <details id="make-the-cards" markdown="1">
 <summary>
-  <span style="font-size: 1.5rem; color: #000;">Make and print the cards</span>
+  <span style="font-size: 1.5rem; color: #222;">Make and print the cards</span>
 </summary>
 
 Once you have selected the system elements, categories, wording, colours and icons, you can produce the physical card set.
@@ -151,7 +151,7 @@ A workshop does not always have to produce a complete system map. For an introdu
 
 <details id="workshop-purpose" markdown="1">
 <summary>
-  <span style="font-size: 1.5rem; color: #000;">Choose the purpose of the workshop </span>
+  <span style="font-size: 1.5rem; color: #222;">Choose the purpose of the workshop </span>
 </summary>
 
 A workshop can include one or more of the following stages.
@@ -201,7 +201,7 @@ This is the basis of the **Surprises and Dreams** approach. It connects systems 
 
 <details id="group-size" markdown="1">
 <summary>
-  <span style="font-size: 1.5rem; color: #000;">Group size and scaling</span>
+  <span style="font-size: 1.5rem; color: #222;">Group size and scaling</span>
 </summary>
 
 The method is scalable. An ideal discussion group consists of approximately **five or six participants**, supported by **one or two facilitators**.
