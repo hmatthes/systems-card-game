@@ -31,6 +31,9 @@ docs/
 ├── index.md             Website homepage
 ├── about.md             Concept and development of the method
 ├── how-to-use.md        General instructions
+├── acknowledgements.md  Acknolwdgements of early developers of the tool and ideas
+├── backstory.md         Extensive backstory on how the tool was developed
+├── contacts.md          General contact information
 ├── downloads/           Generic templates, guidance, and templates to document your adaptations/workshops
 ├── applications/        Adapted card sets and workshop reports
 └── assets/              Images used on the website
