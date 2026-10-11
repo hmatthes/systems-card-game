@@ -31,7 +31,11 @@ Adapting the cards means deciding:
 
 The card set does not need to provide a complete or final description of the system. It provides a starting point for discussion, mapping and learning.
 
-## Systems and system maps {#systems-and-mapping}
+<details markdown="1">
+<summary>
+  <strong>## Systems and system maps {#systems-and-mapping}</strong><br>
+  </summary>
+
 
 A system consists of elements that interact with one another. These may include people, organisations, resources, activities, environmental conditions, rules, infrastructure and many other factors.
 
@@ -45,6 +49,8 @@ Before developing a card set, it therefore helps to clarify:
 - What question should the cards help people explore?
 - Where will you draw the boundaries of the system?
 - Whose knowledge and perspective should inform the cards?
+
+</details>
 
 ## Decide when to identify the system elements {#identify-system-elements}
 
