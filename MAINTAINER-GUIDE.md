@@ -42,7 +42,10 @@ A workshop that uses an existing card-set adaptation should be placed under that
 
 ## Add an adaptation
 
-### 1. Collect the necessary information
+<details>
+<summary><strong><span style="font-size: 1.5rem; color: #000;">1. Collect the necessary information</span><strong></summary>
+Detailed instructions
+</details>
 
 - Title
 - System or topic
@@ -68,6 +71,9 @@ Missing information can be marked temporarily with an HTML comment:
 ```
 
 Comments written in this form are visible in the Markdown source but not on the website.
+
+<details>
+
 
 ### 2. Make a new folder for the adaptation
 
