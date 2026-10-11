@@ -43,7 +43,8 @@ A workshop that uses an existing card-set adaptation should be placed under that
 ## Add an adaptation
 
 <details>
-<summary><strong><span style="font-size: 1.5rem; color: #000;">1. Collect the necessary information</span><strong></summary>
+<summary><strong><span style="font-size: 2rem; color: #000;">1. Collect the necessary information</span><strong></summary>
+
 
 - Title
 - System or topic
