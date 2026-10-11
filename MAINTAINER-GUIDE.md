@@ -4,7 +4,7 @@ This guide explains how to add a documented card-set adaptation and its associat
 
 The GitHub Pages website is built from the files inside the `docs` folder. Files elsewhere in the repository do not normally become website pages.
 
-## 1. Understand the basic structure
+## Understand the basic structure
 
 Every adaptation has its own folder inside:
 
@@ -40,38 +40,9 @@ The files have different purposes:
 
 A workshop that uses an existing card-set adaptation should be placed under that adaptation. It does not need a separate adaptation folder.
 
-## 2. Choose folder names
+## Add an adaptation
 
-Use a short, descriptive folder name containing:
-
-- lowercase letters;
-- hyphens instead of spaces;
-- no special characters.
-
-For example:
-
-```text
-reindeer-herding
-ilulissat-livelihoods
-young-people-reindeer-husbandry
-```
-
-The folder name does not have to be identical to the title displayed on the website.
-
-In this guide, the following placeholders are used:
-
-```text
-ADAPTATION-SLUG
-WORKSHOP-SLUG
-```
-
-Replace these everywhere with the actual folder names.
-
-## 3. Collect the necessary information
-
-Before creating the pages, collect as much of the following as possible.
-
-### For an adaptation
+### 1. Collect the necessary information
 
 - Title
 - System or topic
@@ -90,24 +61,6 @@ Before creating the pages, collect as much of the following as possible.
 - Image caption and credit
 - Permission to publish the image and materials
 
-### For a workshop
-
-- Workshop title
-- Adapted card set used
-- Date and location
-- Organisers and facilitators
-- Participants
-- Purpose
-- Workshop format and duration
-- Changes made for the event
-- Outcomes and observations
-- Follow-up activities
-- Available documentation
-- Contact person and references
-- At least one image, if available
-- Image caption and credit
-- Permission to publish workshop images and documentation
-
 Missing information can be marked temporarily with an HTML comment:
 
 ```html
@@ -116,7 +69,35 @@ Missing information can be marked temporarily with an HTML comment:
 
 Comments written in this form are visible in the Markdown source but not on the website.
 
-## 4. Create an adaptation folder
+### 2. Make a new folder for the adaptation
+
+Use a short, descriptive folder name containing:
+
+- lowercase letters;
+- hyphens instead of spaces;
+- no special characters.
+
+for a new folder in applications/ For example:
+
+```text
+reindeer-herding
+ilulissat-livelihoods
+young-people-reindeer-husbandry
+```
+
+The folder name does not have to be identical to the title displayed on the website.
+
+In this guide, the following placeholders are used:
+
+```text
+ADAPTATION-SLUG
+WORKSHOP-SLUG
+```
+
+Replace these everywhere with the actual folder names.
+
+
+### 3. Create an adaptation folder
 
 In github.dev:
 
@@ -132,7 +113,7 @@ In github.dev:
 
 Git does not retain completely empty folders. If `materials` or `workshops` disappears, create a file inside it or wait until material is ready to upload.
 
-## 5. Create the adaptation landing page
+### 4. Create the adaptation landing page
 
 The adaptation’s `index.md` is its short, visual landing page.
 
@@ -200,7 +181,7 @@ Copy and fill the template below:
 ```
 
 
-## 6. Create the full adaptation documentation
+### 5. Create the full adaptation documentation
 
 Begin `adaptation.md` with:
 
@@ -255,7 +236,7 @@ The documentation should normally contain:
 
 Remove sections that genuinely do not apply. Use comments for information that is expected but not yet available.
 
-## 7. If you want the adaptation to have a teaser
+### 6. If you want the adaptation to have a teaser
 
 All adaptations with:
 
@@ -281,9 +262,31 @@ If the new adaptation should be featured there, copy an existing teaser and chan
 - the image’s `alt` text;
 - the link to the adaptation.
 
-## 8. Create a workshop folder
+## Add a workshop
 
-Inside the adaptation folder, go to:
+### 1. Collect the follwoing information
+
+- Workshop title
+- Adapted card set used
+- Date and location
+- Organisers and facilitators
+- Participants
+- Purpose
+- Workshop format and duration
+- Changes made for the event
+- Outcomes and observations
+- Follow-up activities
+- Available documentation
+- Contact person and references
+- At least one image, if available
+- Image caption and credit
+- Permission to publish workshop images and documentation
+
+
+
+ ### 2. Create a workshop folder
+
+Inside the adaptation folder the workshop belongs to, go to:
 
 ```text
 workshops/
@@ -314,7 +317,9 @@ disruption-cards.jpg
 
 Use descriptive lowercase filenames with hyphens. Avoid spaces where possible.
 
-## 9. Create the workshop landing page
+
+
+### 3. Create the workshop landing page
 
 Begin the workshop `index.md` with:
 
@@ -375,7 +380,7 @@ Copy and fill the template below
 
 
 
-## 10. Create the full workshop report
+### 4. Create the full workshop report
 
 Begin `report.md` with:
 
@@ -437,7 +442,7 @@ A normal report contains:
 [Read the card-set documentation]({{ site.baseurl }}/applications/ADAPTATION-SLUG/adaptation/)
 ```
 
-## 11. Add the workshop teaser to the adaptation page
+### 5. Add the workshop teaser to the adaptation page
 
 Workshops do not appear automatically on the adaptation landing page.
 
@@ -467,7 +472,7 @@ Also replace the copied image `alt` text. It is easy to accidentally leave the d
 
 If no image is available yet, use a normal text link temporarily rather than creating an empty teaser table.
 
-## 12. Rules for links
+## Rules for links
 
 ### Links to website pages
 
