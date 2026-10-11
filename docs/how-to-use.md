@@ -31,28 +31,10 @@ Adapting the cards means deciding:
 
 The card set does not need to provide a complete or final description of the system. It provides a starting point for discussion, mapping and learning.
 
-<details markdown="1">
+<details id="identify-system-elements" markdown="1">
 <summary>
-  <strong>## Systems and system maps {#systems-and-mapping}</strong><br>
-  </summary>
-
-
-A system consists of elements that interact with one another. These may include people, organisations, resources, activities, environmental conditions, rules, infrastructure and many other factors.
-
-The relationships between these elements influence how the system behaves. A change in one part of the system may affect several other parts, sometimes through indirect connections or feedbacks.
-
-A system map is a simplified representation of this complexity. It does not provide a single, objective picture of the system. Instead, it makes participants’ knowledge and assumptions visible so that they can examine relationships, compare perspectives and identify questions together.
-
-Before developing a card set, it therefore helps to clarify:
-
-- What system or topic are you interested in?
-- What question should the cards help people explore?
-- Where will you draw the boundaries of the system?
-- Whose knowledge and perspective should inform the cards?
-
-</details>
-
-## Decide when to identify the system elements {#identify-system-elements}
+  <span style="font-size: 1.25rem;">Decide when to identify the system elements</span>
+</summary>
 
 There are three ways to develop the content of the card set.
 
@@ -63,6 +45,8 @@ There are three ways to develop the content of the card set.
 | **Combine both approaches** | Organisers provide a prepared deck, while participants can add missing elements, question existing cards or suggest different terminology. | The workshop needs some structure but should remain open to participants’ knowledge and perspectives. |
 
 The choice should follow the purpose of the workshop. See [Plan a workshop](#plan-a-workshop) for guidance on selecting an appropriate workshop format.
+
+</details>
 
 ## Identify potential system elements {#select-system-elements}
 
