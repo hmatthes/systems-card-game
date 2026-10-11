@@ -21,15 +21,13 @@ You do not have to follow every step described on this page. Start with the purp
 
 # Adapt the cards {#adapt-the-cards}
 
-You can use an existing card set or adapt the Systems Card Game to a particular system, livelihood, community or topic.
-
-Adapting the cards means deciding:
+This section describes how you can adapt the Systems Card Game to a particular system, livelihood, community or topic. Adapting the cards means deciding:
 
 - which elements of the system should appear on the cards;
 - which categories will help participants approach the system;
 - whether the cards will be prepared before the workshop or developed with participants during the workshop.
 
-The card set does not need to provide a complete or final description of the system. It provides a starting point for discussion, mapping and learning.
+The card set does not need to provide a complete or final description of the system. It provides a starting point for discussion, mapping and learning. Below, you can find a step by step guide to adapting the System Card Game.
 
 <details id="identify-system-elements" markdown="1">
 <summary>
@@ -48,7 +46,10 @@ The choice should follow the purpose of the workshop. See [Plan a workshop](#pla
 
 </details>
 
-## Identify potential system elements {#select-system-elements}
+<details id="select-system-elements" markdown="1">
+<summary>
+  <span style="font-size: 1.5rem; color: #000;">Identify potential system elements</span>
+</summary>
 
 If you prepare the cards in advance, begin by gathering information about the system. Depending on your purpose, this might include:
 
@@ -64,7 +65,12 @@ Use short, recognisable terms on the cards. Participants should be able to inter
 
 Do not try to include everything. A very large deck can make it difficult for participants to recognise priorities and relationships. Focus on elements that are relevant to the purpose of the activity, and provide blank cards so participants can add what is missing.
 
-## Develop the card categories {#card-categories}
+</details>
+
+<details id="card-categories" markdown="1">
+<summary>
+  <span style="font-size: 1.5rem; color: #000;">Develop the card categories</span>
+</summary>
 
 Categories help people approach a complex system from several perspectives. They can also help the developers of a card set notice gaps or an excessive focus on one part of the system.
 
@@ -85,21 +91,14 @@ These categories provide a starting point rather than a fixed classification. Fo
 
 The categories do not have to be mutually exclusive. The same system element may be relevant in more than one category. In that case, you can place it where it is most useful, discuss its overlap with participants, or include versions of the card in more than one category.
 
-## Use colours and icons together {#colours-and-icons}
+Categories can be distinguished through colour, icons or both. The icons in the general template are suggestions. You can replace them with symbols that are more meaningful for the system or community you are working with.
 
-Categories can be distinguished through colour, icons or both.
+</details>
 
-The icons in the general template are suggestions. You can replace them with symbols that are more meaningful for the system or community you are working with.
-
-Using both an icon and a colour makes the categories easier to recognise:
-
-- when cards are printed in greyscale;
-- for participants who do not distinguish all colours easily;
-- when similar or identical system elements appear in different categories.
-
-Do not rely on colour alone to communicate a card’s category. Keep the meaning of each icon consistent throughout the deck and explain the categories at the beginning of the workshop.
-
-## Review the proposed set {#review-card-set}
+<details id="review-card-set" markdown="1">
+<summary>
+  <span style="font-size: 1.5rem; color: #000;">Review the proposed set</span>
+</summary>
 
 Before producing the final cards, review the proposed set with people who understand the system or will help facilitate the workshop.
 
@@ -116,7 +115,12 @@ Check whether:
 
 If possible, test the cards in a small pilot session. Participants’ questions often reveal unclear wording, missing elements or categories that need adjustment.
 
-## Make and print the cards {#make-the-cards}
+</details>
+
+<details id="make-the-cards" markdown="1">
+<summary>
+  <span style="font-size: 1.5rem; color: #000;">Make and print the cards</span>
+</summary>
 
 Once you have selected the system elements, categories, wording, colours and icons, you can produce the physical card set.
 
@@ -128,15 +132,9 @@ The general template is designed for printing on A4 sticker paper. The printed c
 
 Before printing a complete set, print one test sheet. Check the page size, scaling, colours, legibility and cutting marks.
 
-Keep some blank cards available during the workshop so participants can add missing elements.
+Keep some blank cards available during the workshop so participants can add missing elements. Once your cards are ready, continue to [Plan a workshop](#plan-a-workshop).
 
-## The card set can continue to develop
-
-An adapted card set does not have to remain unchanged. Workshop participants may identify missing elements, use different terminology or question the categories chosen by the developers.
-
-Record these observations after each workshop. They can help you revise the deck or create a new version for a different purpose or participant group.
-
-Once your cards are ready, continue to [Plan a workshop](#plan-a-workshop).
+</details>
 
 # Plan a workshop {#plan-a-workshop}
 
@@ -149,11 +147,16 @@ The cards can support:
 - **Education:** introducing systems thinking and exploring how environmental, social, economic and political factors interact;
 - **Planning and reflection:** identifying vulnerable connections, possible disruptions, ways of responding and conditions needed to reach a desired future.
 
-A workshop does not always have to produce a complete system map. For an introductory, educational or outreach activity, it may be enough to select important cards, discuss what they represent and consider which categories of elements influence the system.
+A workshop does not always have to produce a complete system map. For an introductory, educational or outreach activity, it may be enough to select important cards, discuss what they represent and consider which categories of elements influence the system. Building a map becomes particularly useful when participants want to explore relationships, identify critical connections or consider how pressures and unexpected developments might affect the system.
 
-Building a map becomes particularly useful when participants want to explore relationships, identify critical connections or consider how pressures and unexpected developments might affect the system.
+Below you can find a step by step guideline on how to plan a workshop.
 
-## Choose the purpose of the workshop {#workshop-purpose}
+</details>
+
+<details id="workshop-purpose" markdown="1">
+<summary>
+  <span style="font-size: 1.5rem; color: #000;">Choose the purpose of the workshop </span>
+</summary>
 
 A workshop can include one or more of the following stages.
 
@@ -198,7 +201,12 @@ They can then ask:
 
 This is the basis of the **Surprises and Dreams** approach. It connects systems mapping with positive, future-oriented discussion.
 
-## Group size and scaling {#group-size}
+</details>
+
+<details id="group-size" markdown="1">
+<summary>
+  <span style="font-size: 1.5rem; color: #000;">Group size and scaling</span>
+</summary>
 
 The method is scalable. An ideal discussion group consists of approximately **five or six participants**, supported by **one or two facilitators**.
 
@@ -212,35 +220,9 @@ A workshop can include several groups working at the same time, provided that th
 - enough facilitators for all groups;
 - sufficient time to bring the groups together and compare their observations.
 
-If several groups take part, their maps do not have to be identical. Comparing the maps can reveal different experiences, priorities and ways of understanding the same system.
-
-## Prepare the workshop {#prepare-the-workshop}
-
-Before the workshop, decide:
-
-- what the workshop is intended to achieve;
-- which stages of the method are needed;
-- who should participate;
-- how much time is available;
-- who will facilitate and take notes;
-- whether the discussion, maps or participants will be photographed or recorded;
-- how workshop materials and results will be used and shared.
-
 Prepare one card set for each group, including blank cards for missing elements. Depending on the planned activities, groups may also need large sheets of paper, pens, markers in different colours, stickers and materials for recording observations.
 
-If the workshop forms part of research, participants should receive clear information about consent, documentation, anonymity, data storage and how the results will be used. Photographs showing identifiable participants should only be taken and published with appropriate permission.
-
-## Close and follow up {#workshop-follow-up}
-
-At the end of the workshop:
-
-- invite participants to identify an insight they gained;
-- ask for feedback on the activity and facilitation;
-- explain what will happen to the maps, notes and photographs;
-- clarify whether participants will receive a report or other follow-up;
-- discuss possible next steps where appropriate.
-
-Soon after the workshop, facilitators should compile their notes and photographs while the discussion is still fresh. Participants should receive any information or results promised during the workshop.
+</details>
 
 ## Detailed facilitation guidance
 
