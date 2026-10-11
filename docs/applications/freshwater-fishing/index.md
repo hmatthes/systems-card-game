@@ -29,7 +29,7 @@ We were interested to discuss the changes in the operational environment and cop
 
 | Language | Printable card set |
 |---|---|
-| English | [Download PDF](materials/Kalakortit_2026_six_per_page.pdf) |
+| Finish | [Download PDF](materials/Kalakortit_2026_six_per_page.pdf) |
 
 
 ## Workshops using this adaptation
