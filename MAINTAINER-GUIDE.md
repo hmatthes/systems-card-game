@@ -277,6 +277,8 @@ If the new adaptation should be featured there, copy an existing teaser and chan
 - the image’s `alt` text;
 - the link to the adaptation.
 
+</details>
+
 ## Add a workshop
 
 <details>
