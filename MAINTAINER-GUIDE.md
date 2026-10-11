@@ -70,7 +70,7 @@ Missing information can be marked temporarily with an HTML comment:
 
 Comments written in this form are visible in the Markdown source but not on the website.
 
-<details>
+</details>
 
 
 ### 2. Make a new folder for the adaptation
