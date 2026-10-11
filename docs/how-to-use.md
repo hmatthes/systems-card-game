@@ -31,7 +31,7 @@ The card set does not need to provide a complete or final description of the sys
 
 <details id="identify-system-elements" markdown="1">
 <summary>
-  <span style="font-size: 1.5rem; color: #000;">Decide when to identify the system elements</span>
+  <span style="font-size: 1.5rem; color: #222;">Decide when to identify the system elements</span>
 </summary>
 
 There are three ways to develop the content of the card set.
@@ -148,10 +148,6 @@ The cards can support:
 - **Planning and reflection:** identifying vulnerable connections, possible disruptions, ways of responding and conditions needed to reach a desired future.
 
 A workshop does not always have to produce a complete system map. For an introductory, educational or outreach activity, it may be enough to select important cards, discuss what they represent and consider which categories of elements influence the system. Building a map becomes particularly useful when participants want to explore relationships, identify critical connections or consider how pressures and unexpected developments might affect the system.
-
-Below you can find a step by step guideline on how to plan a workshop.
-
-</details>
 
 <details id="workshop-purpose" markdown="1">
 <summary>
