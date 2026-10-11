@@ -171,7 +171,29 @@ Copy and fill the template below:
 </details>
 
 <details>
-<summary><strong>4. Create the full adaptation documentation</strong></summary>
+<summary><strong>4. Upload material</strong></summary>
+
+Inside the adaptation folder create a new folder:
+
+```text
+materials/
+```
+
+and upload the dowloadable card set files if applicable
+
+materials/CardSet.pdf
+
+Upload the adaptation image into the application folder:
+
+```text
+adaptation-image.jpg
+```
+
+</details>
+
+
+<details>
+<summary><strong>5. Create the full adaptation documentation</strong></summary>
 
 Begin `adaptation.md` with:
 
@@ -229,7 +251,7 @@ Remove sections that genuinely do not apply. Use comments for information that i
 </details>
 
 <details>
-<summary><strong>5. If you want the adaptation to have a teaser</strong></summary>
+<summary><strong>6. If you want the adaptation to have a teaser</strong></summary>
 
 All adaptations with:
 
