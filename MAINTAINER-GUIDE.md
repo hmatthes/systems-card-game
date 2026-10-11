@@ -282,7 +282,7 @@ If the new adaptation should be featured there, copy an existing teaser and chan
 ## Add a workshop
 
 <details>
-<summary><strong>1. Collect the follwoing information</strong></summary>
+<summary><strong>1. Collect the following information</strong></summary>
 
 - Workshop title
 - Adapted card set used
