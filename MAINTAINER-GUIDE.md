@@ -84,7 +84,7 @@ In this guide, the following placeholders are used:
 ADAPTATION-SLUG
 ```
 
-In github.dev:
+In github.dev (you get there by hitting . when the repo is open):
 
 1. Open `docs/applications`.
 2. Create a folder using the adaptation slug.
