@@ -1,7 +1,7 @@
 ---
 title: Commercial Fishing on Northern Lakes full documentation
 nav_exclude: true
-permalink: /applications/freshwater-fisheries/adaptation/
+permalink: /applications/freshwater-fishing/adaptation/
 ---
 
 # Commercial Fishing on Northern Lakes
