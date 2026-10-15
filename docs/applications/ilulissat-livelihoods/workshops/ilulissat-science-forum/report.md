@@ -146,6 +146,6 @@ The printable card sets are available in English and Kalaallisut from the adapta
 **Institution:** Danish Meteorological Institute  
 **Email:** [kve@dmi.dk](mailto:kve@dmi.dk)
 
-The card files acknowledge funding from the European Union’s Horizon 2020 Research and Innovation Programme under grant agreement No. 869471, the CHARTER project.
+The worshop and card developement acknowledges funding from the European Union’s Horizon 2020 research and innovation programme call H2020-LC-CLA-2018-2019-2020 under grant agreement number 101003590, the PolarRES project.
 
 <!-- Add links to the Ilulissat Science Forum, CHARTER or related publications here. -->
