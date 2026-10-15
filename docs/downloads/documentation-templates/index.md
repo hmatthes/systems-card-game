@@ -54,7 +54,7 @@ You only need to complete one format.
 
 [Download the adaptation Word template](adaptation-report-template.docx){: .btn }
 
-[Open the adaptation template](adaptation-template/){: .btn }
+[Open the adaptation template]({{ site.baseurl }}/downloads/documentation-templates/adaptation-template/){: .btn }
 
 [Download the workshop Word template](DocumentationWorkshop.docx){: .btn }
 
