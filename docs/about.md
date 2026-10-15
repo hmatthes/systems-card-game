@@ -38,4 +38,4 @@ Method supports open, constructive discussion, while making tensions between var
 
 The Systems Card Game started with Surprises and Dreams workshops, and reindeer husbandry card set. These were developed iteratively by a multidisciplinary research team throughout 2022. The deck evolved from handwritten cards made with a blank magician’s deck into a professionally printed card set available in several languages. 
 
-You can read more about how the game developed [here](backstory/)
+You can read more about how the game developed [here]({{ site.baseurl }}/backstory/)
