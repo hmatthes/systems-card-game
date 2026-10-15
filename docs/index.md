@@ -17,7 +17,23 @@ permalink: /
 
 The Systems Card Game is a participatory tool for mapping and exploring operational systems, such as livelihoods, communities, and occupations.
 
-Participants use cards to identify important elements of a system, arrange them into a shared map, and explore relationships between them. The map can then be used to consider external pressures, possible disruptions, responses, and desired futures.
+Participants use cards to identify important elements of a system, arrange them into a shared map, and explore relationships between them. The map can then be used to consider external pressures, possible disruptions, responses, and desired futures. 
+
+This short time-lapse shows members of the development team test-playing a card set developed for the operational environment of reindeer herding.
+
+<video controls
+       preload="metadata"
+       playsinline
+       style="width: 100%; max-width: 720px; height: auto;">
+  <source src="{{ site.baseurl }}/applications/reindeer-herding/materials/DreamsAndSurprisesWorkshopTimeLapse-reduced.mp4"
+          type="video/mp4">
+  Your browser does not support embedded video.
+  <a href="{{ site.baseurl }}/applications/reindeer-herding/materials/DreamsAndSurprisesWorkshopTimeLapse-reduced.mp4">
+    Download the time-lapse video.
+  </a>
+</video>
+
+<small>Test play with Otto Habeck, Heidrun Matthes, Sirpa Rasmus, Salla Eilola and Philip Burgess and others.</small>
 
 ## Explore the tool
 
