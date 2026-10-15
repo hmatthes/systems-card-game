@@ -57,4 +57,4 @@ Main development was done by Heidrun Matthes, together with early career researc
 
 ## Workshops or courses using the adaptation
 
-[Workshop at the PolarRES ECR Bootcamp, Søminestationen, Holbæk, Denmark](workshops/PolarRES-bootcamp-2023/)
+[Workshop at the PolarRES ECR Bootcamp, Søminestationen, Holbæk, Denmark]({{ site.baseurl }}/applications/being-a-scientist/workshops/PolarRES-bootcamp-2023/)

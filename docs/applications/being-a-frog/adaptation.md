@@ -48,4 +48,4 @@ This card game was developed at the Danish Meteorological Institute by Anette Es
 
 ## Workshops or courses using the adaptation
 
-[Workshop with students from at a Danish lower secondary school](workshops/Danish-secondary-school/)
+[Workshop with students from at a Danish lower secondary school]({{ site.baseurl }}/applications/being-a-frog/workshops/Danish-secondary-school/)

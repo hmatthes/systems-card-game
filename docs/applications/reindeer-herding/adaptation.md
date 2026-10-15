@@ -153,5 +153,5 @@ Rasmus, S., Sarkki, S., Wang, I., Burgess, P., Habeck, J.O., Horstkotte, T., Jok
 
 ## Workshops using this adaptation
 
-- [Surprises and Dreams: Reindeer and Fish Research Days, Inari](workshops/surprises-and-dreams/)
-- [Young People in Reindeer Husbandry: Workshop Series in Inari, Sodankylä and Sattanen](workshops/young-people-reindeer-husbandry/)
+- [Surprises and Dreams: Reindeer and Fish Research Days, Inari]({{ site.baseurl }}/applications/reindeer-herding/workshops/surprises-and-dreams/)
+- [Young People in Reindeer Husbandry: Workshop Series in Inari, Sodankylä and Sattanen]({{ site.baseurl }}/applications/reindeer-herding/workshops/young-people-reindeer-husbandry/)
