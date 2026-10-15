@@ -145,4 +145,4 @@ Additional publications, reports or project links can be added here when availab
 
 ## Workshops or courses using the adaptation
 
-[Ilulissat Science Forum 2025 workshop](workshops/ilulissat-science-forum/)
+[Ilulissat Science Forum 2025 workshop]({{ site.baseurl }}/applications/ilulissat-livelihoods/workshops/ilulissat-science-forum/)

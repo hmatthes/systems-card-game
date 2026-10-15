@@ -10,7 +10,7 @@ permalink: /
 <p align="center">
   <img src="{{ site.baseurl }}/assets/images/Logo.png"
        alt="Systems Card Game logo"
-       width="45%">
+       width="65%">
   <br>
   <small>Graphic by Irina Wang</small>
 </p>
