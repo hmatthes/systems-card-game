@@ -56,7 +56,7 @@ You only need to complete one format.
 
 [Open the adaptation template](adaptation-template.html){: .btn }
 
-[Download the workshop Word template](DocumentationWorkshop.docx){: .btn }
+[Download the workshop Word template](workshop-report-template.docx){: .btn }
 
 [Open the workshop template](workshop-template.html){: .btn }
 
