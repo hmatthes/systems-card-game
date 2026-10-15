@@ -138,8 +138,8 @@ The card files acknowledge funding from the European Union’s Horizon 2020 Rese
 **Institution:** Danish Meteorological Institute  
 **Email:** [kve@dmi.dk](mailto:kve@dmi.dk)
 
-**Associated project:** CHARTER — Drivers and Feedbacks of Changes in Arctic Terrestrial Biodiversity  
-**Funding:** European Union Horizon 2020 Research and Innovation Programme, grant agreement No. 869471
+**Associated project:** PolarRES — Polar Regions in the Earth System  
+**Funding:** European Union Horizon 2020 Research and Innovation Programme, grant agreement number 101003590
 
 Additional publications, reports or project links can be added here when available.
 
